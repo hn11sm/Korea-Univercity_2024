@@ -1,0 +1,5 @@
+[('[', 'SSO'), ('제주', 'NNP'), ('·', 'SC'), ('서울', 'NNP'), (']', 'SSC')]
+유치에	유치/NNG+에/JKB (유치에/NNP)
+성공한	성공/NNG+하/XSV+ㄴ/ETM (성공/NNG+한/XSV+ETM)
+결정된  결정/NNG+되/XSV+ㄴ/ETM (결정/NNG+된/XSV+ETM)
+조성위해	조성/NNG+위하/VV+아/EM (조성/NNG+위해/VV+EC)

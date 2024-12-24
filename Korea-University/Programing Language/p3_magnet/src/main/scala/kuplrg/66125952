@@ -1,0 +1,349 @@
+.equ ARM_System_Timer_Base, 0xFFFF0000
+
+
+.equ ARM_System_UART_Base,  0xFFFF1000
+.equ    UART_RxData,        0x0
+.equ    UART_TxData,        0x4
+.equ    UART_CSReg ,        0x8
+
+.equ ARM_System_GPIO_Base,  0xFFFF2000
+.equ    GPIO_KEY_STATUS,    0x00
+.equ    GPIO_SW_STATUS,     0x04
+.equ    GPIO_LEDR,          0x08
+.equ    GPIO_LEDG,          0x0C
+.equ    GPIO_HEX0,          0x10
+.equ    GPIO_HEX1,          0x14
+.equ    GPIO_HEx3,          0x18
+.equ    GPIO_HEX3,          0x1C
+.equ    GPIO_HEX4,          0x20
+.equ    GPIO_HEX5,          0x24
+.equ    GPIO_HEX6,          0x28
+.equ    GPIO_HEX7,          0x2C
+
+.equ SEG_0,                 0x040
+.equ SEG_1,                 0x079
+.equ SEG_2,                 0x024
+.equ SEG_3,                 0x030
+.equ SEG_4,                 0x019
+.equ SEG_5,                 0x012
+.equ SEG_6,                 0x003
+.equ SEG_7,                 0x078
+.equ SEG_8,                 0x000
+.equ SEG_9,                 0x010
+.equ SEG_,                  0x03F
+.equ SEG_A,                 0x008
+
+.extern reset
+
+
+.text
+.align 4
+.global main
+
+main:
+reset:
+    lui x7, 0xFFFF2
+    addi x7, x7, 0x000 
+    addi x5, x0, SEG_0    
+    sw x5, 0x10(x7) 
+    sw x5, 0x14(x7)
+    sw x5, 0x18(x7)
+    sw x5, 0x1C(x7)
+    sw x5, 0x20(x7)
+    sw x5, 0x24(x7)
+    addi x5, x0, SEG_
+    sw x5, 0x28(x7)
+    addi x5, x0, SEG_A
+    sw x5, 0x2C(x7)
+    
+    lui x8, 0xFFFF0	//counter's CompareR
+	lui x6, 0x00004	#5n+4
+    addi x6, x6, 0x0FF	//x6=000040FF
+    sw x6, 0x0(x8) 
+
+    la x14, data          
+    sw x0, 0(x14)     
+    sw x0, 0x04(x14)          
+    sw x0, 0x08(x14)           
+    sw x0, 0x0C(x14)        
+    sw x0, 0x10(x14)           
+    sw x0, 0x14(x14)            
+    sw x0, 0x18(x14)           
+
+	la sp, sys_stack	//3CC00113
+
+loop:
+	lw x6, 0x200(x8)	//20042303, counter's statusR --> x6 = 0
+	addi x31, x0, 1		//00100F93
+	sub x4, x6, x31		//41F30233, x4 = FFFFFFFF
+	bne x4, x0, not_equal_loop_sec0	//00021463
+	j sec0	//0080006F
+
+not_equal_loop_sec0:
+	j loop	//FEDFF06F
+
+sec0:
+	la x5, data					//39000293, ADDI x5,x0,0x390
+	lw x6, 0(x5)				//0002A303
+	addi x6, x6, 1				//00130313
+	addi x31, x0, 10			//00A00F93
+	sub x4, x6, x31				//41F30233
+	bne x4, x0, not_equal_sec0	//00021463
+	add x6, x0, x0				//00000333
+not_equal_sec0:
+	sw x6, 0(x5)				//0062A023
+	bne x4, x0, not_equal_sec0_bleq_sec1	//00021463
+	jal sec1					//01400EF
+not_equal_sec0_bleq_sec1:
+	lw x6, 0(x5)				//0002A303
+	jal trans					//22C000EF
+	sw x6, 0x10(x7)				//0063A823
+	j loop
+
+sec1:
+	addi sp, sp, -4
+	sw ra, 0(sp)    	# /* push */
+
+	lw x6, 4(x5)
+	addi x6, x6, 1
+	addi x31, x0, 6
+	sub x4, x6, x31
+	bne x4, x0, not_equal_sec1
+	add x6, x0, x0
+not_equal_sec1:
+	sw x6, 4(x5)
+	bne x4, x0, not_equal_sec1_bleq_min0
+	jal min0
+not_equal_sec1_bleq_min0:
+	lw x6, 4(x5)
+	jal trans
+	sw x6, 0x14(x7)
+	lw x16, 0(sp)
+	addi sp, sp, 4
+	add ra, x16, x0		# /* pop */
+	jr ra 
+
+
+min0:
+	addi sp, sp, -4
+	sw ra, 0(sp)    	# /* push */
+	lw x6, 8(x5)
+	addi x6, x6, 1
+	addi x31, x0, 10
+	sub x4, x6, x31
+	bne x4, x0, not_equal_min0
+	add x6, x0, x0
+not_equal_min0:
+	sw x6, 8(x5)
+	bne x4, x0, not_equal_min0_bleq_min1
+	jal min1
+not_equal_min0_bleq_min1:
+	lw x6, 8(x5)
+	jal trans
+	sw x6, 0x18(x7)
+	lw x16, 0(sp)
+	addi sp, sp, 4
+	add ra, x16, x0		# /* pop */
+	jr ra 
+
+min1:
+	addi sp, sp, -4
+	sw ra, 0(sp)    	# /* push */
+	lw x6, 0xC(x5)
+	addi x6, x6, 1
+	addi x31, x0, 6
+	sub x4, x6, x31
+	bne x4, x0, not_equal_min1
+	add x6, x0, x0
+not_equal_min1:
+	sw x6, 0xC(x5)
+	bne x4, x0, not_equal_min1_bleq_hour0
+	jal hour0
+not_equal_min1_bleq_hour0:
+	lw x6, 0xC(x5)
+	jal trans
+	sw x6, 0x1C(x7)
+	lw x16, 0(sp)
+	addi sp, sp, 4
+	add ra, x16, x0		# /* pop */
+	jr ra 
+
+
+hour0:
+	addi sp, sp, -4
+	sw ra, 0(sp)    	# /* push */
+	lw x6, 0x10(x5)
+	addi x6, x6, 1
+	addi x31, x0, 2
+	sub x4, x6, x31
+	sw x6, 0x10(x5)
+	bne x4, x0, not_equal_hour0
+	jal hour2
+not_equal_hour0:
+	lw x6, 0x10(x5)
+	addi x31, x0, 10
+	sub x4, x6, x31
+	bne x4, x0, not_equal_hour0_2nd
+	add x6, x0, x0
+not_equal_hour0_2nd:
+	sw x6, 0x10(x5)
+	bne x4, x0, not_equal_hour0_2nd_hour1
+	jal hour1
+not_equal_hour0_2nd_hour1:
+	lw x6, 0x10(x5)
+	jal trans
+	sw x6, 0x20(x7)
+	lw x16, 0(sp)
+	addi sp, sp, 4
+	add ra, x16, x0		# /* pop */
+	jr ra 
+
+hour2:
+	addi sp, sp, -4
+	sw ra, 0(sp)    	# /* push */
+	lw x6, 0x14(x5)
+	addi x31, x0, 1
+	sub x4, x6, x31
+	bne x4, x0, not_equal_hour2
+	add x6, x0, x0
+	sw x6, 0x14(x5)
+	sw x6, 0x10(x5)
+	addi x6, x0, SEG_0
+	sw x6, 0x20(x7)
+	sw x6, 0x24(x7)
+	jal day
+not_equal_hour2:
+	lw x16, 0(sp)
+	addi sp, sp, 4
+	add ra, x16, x0
+	jr ra
+
+hour1:
+	addi sp, sp, -4
+	sw ra, 0(sp)    	# /* push */
+	lw x6, 0x14(x5)
+	addi x6, x6, 1
+	addi x31, x0, 2
+	sub x4, x6, x31
+	bne x4, x0, not_equal_hour1
+	add x6, x0, x0
+not_equal_hour1:
+	sw x6, 0x14(x5)
+	bne x4, x0, not_equal_hour1_bleq_day
+	jal day
+not_equal_hour1_bleq_day:
+	lw x6, 0x14(x5)
+	jal trans
+	sw x6, 0x24(x7)
+	lw x16, 0(sp)
+	addi sp, sp, 4
+	add ra, x16, x0		# /* pop */
+	jr ra 
+
+
+day:	# /* 0 : A, 1: P */
+	addi sp, sp, -4
+	sw ra, 0(sp)    	# /* push */
+	lw x6, 0x18(x5)
+	add x31, x0, x0
+	sub x4, x6, x31
+	bne x4, x0, not_equal_day
+	beq x4, x0, equal_day
+	
+not_equal_day:
+	add x6, x0, x0
+	sw x6, 0x18(x5)
+	addi x6, x0, SEG_A
+	sw x6, 0x2C(x7)
+	lw x16, 0(sp)
+	addi sp, sp, 4
+	add ra, x16, x0		# /* pop */
+	jr ra
+
+equal_day:
+	addi x6, x0, 1
+	sw x6, 0x18(x5)
+	addi x6, x0, 0xC
+	sw x6, 0x2C(x7)
+	lw x16, 0(sp)
+	addi sp, sp, 4
+	add ra, x16, x0		# /* pop */
+	jr ra
+
+
+
+
+
+trans:
+	add x31, x0, x0		//00000fb3
+	sub x4, x6, x31		//41F30233
+	bne x4, x0, trans_L0	//00021463
+	addi x6, x0, SEG_0
+trans_L0:
+	addi x31, x0, 1	//00100F93
+	sub x4, x6, x31	//41F30233
+	bne x4, x0, trans_L1
+	addi x6, x0, SEG_1
+trans_L1:
+	addi x31, x0, 2
+	sub x4, x6, x31
+	bne x4, x0, trans_L2
+	addi x6, x0, SEG_2
+trans_L2:
+	addi x31, x0, 3
+	sub x4, x6, x31
+	bne x4, x0, trans_L3
+	addi x6, x0, SEG_3
+trans_L3:
+	addi x31, x0, 4
+	sub x4, x6, x31
+	bne x4, x0, trans_L4
+	addi x6, x0, SEG_4
+trans_L4:
+	addi x31, x0, 5
+	sub x4, x6, x31
+	bne x4, x0, trans_L5
+	addi x6, x0, SEG_5
+trans_L5:
+	addi x31, x0, 6
+	sub x4, x6, x31
+	bne x4, x0, trans_L6
+	addi x6, x0, SEG_6
+trans_L6:
+	addi x31, x0, 7
+	sub x4, x6, x31
+	bne x4, x0, trans_L7
+	addi x6, x0, SEG_7
+trans_L7:
+	addi x31, x0, 8
+	sub x4, x6, x31
+	bne x4, x0, trans_L8
+	addi x6, x0, SEG_8
+trans_L8:
+	addi x31, x0, 9
+	sub x4, x6, x31
+	bne x4, x0, trans_L9
+	addi x6, x0, SEG_9
+trans_L9:
+	jr ra
+
+
+
+
+.data
+.align 4
+data:
+    .word   0,    0,    0,    0,    0,     0,     0
+
+add64_op1:
+   .word  0x32223333, 0x44445555
+add64_op2:
+   .word  0x33332222, 0x66665555
+add64_res:
+   .word  0x55555555, 0xAAAAAAAA
+sub64_res:
+   .word  0xEEEF1110, 0xDDDE0000
+
+sys_stack:
+    .space 1024
+

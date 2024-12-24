@@ -1,0 +1,1585 @@
+2024.10.14 00:42:23 INFO  Started: Metals version 1.3.5 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt' for client Visual Studio Code 1.94.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@15fc478d]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@499b8f19]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@15fc478d]
+2024.10.14 00:42:23 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.14 00:42:25 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:39 INFO  running '/Users/zs_olef.x/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.10.14 00:42:40 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/metals.sbt
+2024.10.14 00:42:40 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/metals.sbt
+2024.10.14 00:42:40 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:40 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:40 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:40 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:40 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:41 INFO  [info] welcome to sbt 1.9.9 (Oracle Corporation Java 17.0.12)
+2024.10.14 00:42:42 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:42 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:43 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:43 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala
+2024.10.14 00:42:43 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:46 INFO  [info] loading settings for project cobalt-build-build-build from metals.sbt ...
+2024.10.14 00:42:48 INFO  [info] loading project definition from /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/project
+2024.10.14 00:42:48 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:48 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:48 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:49 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:50 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala
+2024.10.14 00:42:50 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:50 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:51 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:51 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:51 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:52 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:52 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:52 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:52 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:52 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 14, 2024 12:42:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+2024.10.14 00:42:52 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:52 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:53 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:53 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:54 INFO  [info] loading settings for project cobalt-build-build from metals.sbt ...
+2024.10.14 00:42:54 INFO  [info] loading project definition from /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project
+2024.10.14 00:42:54 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala
+2024.10.14 00:42:54 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:54 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:42:55 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:00 INFO  [success] Generated .bloop/cobalt-build-build.json
+2024.10.14 00:43:00 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:00 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:00 INFO  [success] Total time: 6 s, completed Oct 14, 2024, 12:43:00 AM
+2024.10.14 00:43:00 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:02 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:02 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala
+2024.10.14 00:43:02 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:03 INFO  [info] loading settings for project cobalt-build from metals.sbt,plugins.sbt ...
+2024.10.14 00:43:03 INFO  [info] loading project definition from /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project
+2024.10.14 00:43:05 INFO  [success] Generated .bloop/cobalt-build.json
+2024.10.14 00:43:05 INFO  [success] Total time: 3 s, completed Oct 14, 2024, 12:43:06 AM
+2024.10.14 00:43:08 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:09 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:09 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:09 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala
+2024.10.14 00:43:10 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:11 INFO  [info] loading settings for project root from build.sbt ...
+2024.10.14 00:43:11 INFO  [info] set current project to cobalt (in build file:/Users/zs_olef.x/Work/Major/Programing%20Language/Assignments/cobalt/)
+2024.10.14 00:43:13 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 00:43:14 INFO  [success] Generated .bloop/root.json
+2024.10.14 00:43:14 INFO  [success] Generated .bloop/root-test.json
+2024.10.14 00:43:14 INFO  [success] Total time: 2 s, completed Oct 14, 2024, 12:43:14 AM
+2024.10.14 00:43:14 INFO  time: ran 'sbt bloopInstall' in 34s
+2024.10.14 00:43:14 INFO  Attempting to connect to the build server...
+2024.10.14 00:43:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 00:43:14 INFO  Attempting to connect to the build server...
+2024.10.14 00:43:14 INFO  Attempting to connect to the build server...
+2024.10.14 00:43:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 00:43:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 00:43:15 INFO  time: Connected to build server in 0.7s
+2024.10.14 00:43:15 INFO  Connected to Build server: Bloop v1.6.0
+2024.10.14 00:43:15 INFO  time: Imported build in 0.1s
+2024.10.14 00:43:15 INFO  running doctor check
+2024.10.14 00:43:15 INFO  java targets: cobalt-build, cobalt-build-build, root-test, root
+2024.10.14 00:43:17 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:19 INFO  time: compiled root in 2.44s
+2024.10.14 00:43:19 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:21 INFO  time: compiled root in 1.76s
+2024.10.14 00:43:24 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.14 00:43:27 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:27 INFO  time: compiled root in 0.57s
+2024.10.14 00:43:28 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:28 INFO  time: compiled root in 0.95s
+2024.10.14 00:43:30 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:32 INFO  time: compiled root in 1.74s
+2024.10.14 00:43:32 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:32 WARN  org.h2.jdbc.JdbcBatchUpdateException: Unique index or primary key violation: "PUBLIC.PRIMARY_KEY_3 ON PUBLIC.TOPLEVEL_SYMBOL(JAR, PATH, SYMBOL) VALUES ( /* key:4951 */ 12, '/org/scalatest/enablers/TableAsserting.scala', 'org/scalatest/enablers/ForResult#')"; SQL statement:
+insert into toplevel_symbol (symbol, path, jar) values (?, ?, ?) [23505-230]
+	at org.h2.jdbc.JdbcPreparedStatement.executeBatch(JdbcPreparedStatement.java:1277)
+	at scala.meta.internal.metals.JarTopLevels.putToplevels(JarTopLevels.scala:139)
+	at scala.meta.internal.metals.JarTopLevels.$anonfun$putJarIndexingInfo$1(JarTopLevels.scala:85)
+	at scala.runtime.java8.JFunction1$mcII$sp.apply(JFunction1$mcII$sp.scala:17)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.JarTopLevels.putJarIndexingInfo(JarTopLevels.scala:84)
+	at scala.meta.internal.metals.Indexer.addSourceJarSymbols(Indexer.scala:666)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexDependencySources$5(Indexer.scala:491)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at scala.collection.IterableOps$WithFilter.foreach(Iterable.scala:905)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexDependencySources$1(Indexer.scala:482)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexDependencySources$1$adapted(Indexer.scala:481)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at scala.meta.internal.metals.Indexer.indexDependencySources(Indexer.scala:481)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$17(Indexer.scala:302)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$16(Indexer.scala:295)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$16$adapted(Indexer.scala:291)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Indexer.indexWorkspace(Indexer.scala:291)
+	at scala.meta.internal.metals.Indexer.$anonfun$profiledIndexWorkspace$2(Indexer.scala:167)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.Indexer.$anonfun$profiledIndexWorkspace$1(Indexer.scala:167)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.10.14 00:43:34 INFO  time: compiled root in 2s
+2024.10.14 00:43:44 INFO  time: indexed workspace in 29s
+2024.10.14 00:43:44 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:44 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:46 INFO  time: compiled root in 1.14s
+2024.10.14 00:43:46 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:48 INFO  time: compiled root in 1.53s
+2024.10.14 00:43:48 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:49 INFO  time: compiled root in 1.34s
+2024.10.14 00:43:59 INFO  compiling root (4 scala sources)
+2024.10.14 00:43:59 INFO  time: compiled root in 0.12s
+2024.10.14 00:44:01 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:01 INFO  time: compiled root in 0.3s
+2024.10.14 00:44:10 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:10 INFO  time: compiled root in 0.13s
+2024.10.14 00:44:11 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:11 INFO  time: compiled root in 0.25s
+2024.10.14 00:44:21 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:21 INFO  time: compiled root in 0.14s
+2024.10.14 00:44:22 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:22 INFO  time: compiled root in 0.24s
+2024.10.14 00:44:36 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:36 INFO  time: compiled root in 0.49s
+2024.10.14 00:44:38 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:38 INFO  time: compiled root in 0.37s
+2024.10.14 00:44:40 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:40 INFO  time: compiled root in 0.35s
+2024.10.14 00:44:40 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:41 INFO  time: compiled root in 0.92s
+2024.10.14 00:44:41 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:42 INFO  time: compiled root in 1.41s
+2024.10.14 00:44:42 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:42 INFO  time: compiled root in 0.21s
+2024.10.14 00:44:44 INFO  compiling root (4 scala sources)
+2024.10.14 00:44:44 INFO  time: compiled root in 0.3s
+2024.10.14 02:33:11 INFO  compiling root (4 scala sources)
+2024.10.14 02:33:11 INFO  time: compiled root in 0.26s
+2024.10.14 02:33:16 INFO  compiling root (4 scala sources)
+2024.10.14 02:33:16 INFO  time: compiled root in 0.26s
+2024.10.14 02:33:16 INFO  compiling root (4 scala sources)
+2024.10.14 02:33:16 INFO  time: compiled root in 0.34s
+2024.10.14 02:33:16 INFO  compiling root (4 scala sources)
+2024.10.14 02:33:17 INFO  time: compiled root in 0.64s
+2024.10.14 03:30:57 INFO  compiling root (4 scala sources)
+2024.10.14 03:30:57 INFO  time: compiled root in 0.26s
+2024.10.14 03:31:30 INFO  compiling root (4 scala sources)
+2024.10.14 03:31:30 INFO  time: compiled root in 0.26s
+2024.10.14 03:31:36 INFO  compiling root (4 scala sources)
+2024.10.14 03:31:36 INFO  time: compiled root in 0.24s
+2024.10.14 03:31:49 INFO  compiling root (4 scala sources)
+2024.10.14 03:31:49 INFO  time: compiled root in 0.24s
+2024.10.14 03:31:53 INFO  compiling root (4 scala sources)
+2024.10.14 03:31:53 INFO  time: compiled root in 0.24s
+2024.10.14 03:31:53 INFO  compiling root (4 scala sources)
+2024.10.14 03:31:53 INFO  time: compiled root in 0.23s
+2024.10.14 03:32:07 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:07 INFO  time: compiled root in 0.24s
+2024.10.14 03:32:09 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:09 INFO  time: compiled root in 0.23s
+2024.10.14 03:32:12 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:12 INFO  time: compiled root in 0.24s
+2024.10.14 03:32:12 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:12 INFO  time: compiled root in 0.25s
+2024.10.14 03:32:12 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:13 INFO  time: compiled root in 0.52s
+2024.10.14 03:32:27 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:27 INFO  time: compiled root in 0.24s
+2024.10.14 03:32:29 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:29 INFO  time: compiled root in 0.24s
+2024.10.14 03:32:37 WARN  Using indexes to guess the definition of NilV
+2024.10.14 03:32:38 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:38 INFO  time: compiled root in 0.24s
+2024.10.14 03:32:38 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:38 INFO  time: compiled root in 0.21s
+2024.10.14 03:32:38 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:38 INFO  time: compiled root in 0.21s
+2024.10.14 03:32:48 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:48 INFO  time: compiled root in 0.24s
+2024.10.14 03:32:48 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:48 INFO  time: compiled root in 0.22s
+2024.10.14 03:32:48 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:48 INFO  time: compiled root in 0.36s
+2024.10.14 03:32:59 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:59 INFO  time: compiled root in 0.23s
+2024.10.14 03:32:59 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:59 INFO  time: compiled root in 0.21s
+2024.10.14 03:32:59 INFO  compiling root (4 scala sources)
+2024.10.14 03:32:59 INFO  time: compiled root in 0.26s
+2024.10.14 03:32:59 INFO  compiling root (4 scala sources)
+2024.10.14 03:33:00 INFO  time: compiled root in 0.49s
+2024.10.14 03:33:00 INFO  compiling root (4 scala sources)
+2024.10.14 03:33:02 INFO  time: compiled root in 0.29s
+2024.10.14 03:33:03 INFO  compiling root (4 scala sources)
+2024.10.14 03:33:03 INFO  time: compiled root in 0.25s
+2024.10.14 03:33:03 INFO  compiling root (4 scala sources)
+2024.10.14 03:33:03 INFO  time: compiled root in 0.41s
+2024.10.14 03:33:03 INFO  compiling root (4 scala sources)
+2024.10.14 03:33:05 INFO  time: compiled root in 1.26s
+2024.10.14 03:34:16 INFO  compiling root (4 scala sources)
+2024.10.14 03:34:16 INFO  time: compiled root in 0.24s
+2024.10.14 03:34:19 INFO  compiling root (4 scala sources)
+2024.10.14 03:34:19 INFO  time: compiled root in 0.24s
+2024.10.14 03:34:21 INFO  compiling root (4 scala sources)
+2024.10.14 03:34:21 INFO  time: compiled root in 0.24s
+2024.10.14 03:35:18 INFO  compiling root (4 scala sources)
+2024.10.14 03:35:18 INFO  time: compiled root in 0.24s
+2024.10.14 03:35:18 INFO  compiling root (4 scala sources)
+2024.10.14 03:35:18 INFO  time: compiled root in 0.22s
+2024.10.14 03:35:18 INFO  compiling root (4 scala sources)
+2024.10.14 03:35:18 INFO  time: compiled root in 0.22s
+2024.10.14 03:35:42 INFO  compiling root (4 scala sources)
+2024.10.14 03:35:42 INFO  time: compiled root in 0.25s
+2024.10.14 03:35:46 INFO  compiling root (4 scala sources)
+2024.10.14 03:35:46 INFO  time: compiled root in 0.23s
+2024.10.14 03:35:46 INFO  compiling root (4 scala sources)
+2024.10.14 03:35:46 INFO  time: compiled root in 0.2s
+2024.10.14 03:35:46 INFO  compiling root (4 scala sources)
+2024.10.14 03:35:46 INFO  time: compiled root in 0.2s
+2024.10.14 03:35:46 INFO  compiling root (4 scala sources)
+2024.10.14 03:35:47 INFO  time: compiled root in 0.27s
+2024.10.14 03:36:01 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:01 INFO  time: compiled root in 0.37s
+2024.10.14 03:36:03 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:03 INFO  time: compiled root in 0.23s
+2024.10.14 03:36:03 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:03 INFO  time: compiled root in 0.25s
+2024.10.14 03:36:03 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:03 INFO  time: compiled root in 0.45s
+2024.10.14 03:36:28 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:28 INFO  time: compiled root in 0.24s
+2024.10.14 03:36:28 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:28 INFO  time: compiled root in 0.21s
+2024.10.14 03:36:28 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:28 INFO  time: compiled root in 0.32s
+2024.10.14 03:36:28 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:29 INFO  time: compiled root in 0.6s
+2024.10.14 03:36:29 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:29 INFO  time: compiled root in 0.71s
+2024.10.14 03:36:36 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:36 INFO  time: compiled root in 0.24s
+2024.10.14 03:36:36 INFO  compiling root (4 scala sources)
+2024.10.14 03:36:36 INFO  time: compiled root in 0.21s
+2024.10.14 03:36:40 INFO  Shutting down server
+2024.10.14 03:36:40 INFO  shutting down Metals
+2024.10.14 03:36:40 INFO  Shut down connection with build server.
+2024.10.14 03:36:40 INFO  Shut down connection with build server.
+2024.10.14 03:36:40 INFO  Shut down connection with build server.
+2024.10.14 03:36:40 INFO  Exiting server
+2024.10.14 03:38:06 INFO  Started: Metals version 1.3.5 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt' for client Visual Studio Code 1.94.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2fae66a7]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7984bdee]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2fae66a7]
+2024.10.14 03:38:06 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.14 03:38:07 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 03:38:07 INFO  Attempting to connect to the build server...
+2024.10.14 03:38:08 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala
+2024.10.14 03:38:08 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 03:38:08 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala
+2024.10.14 03:38:08 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala
+2024.10.14 03:38:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 03:38:08 INFO  Attempting to connect to the build server...
+2024.10.14 03:38:08 INFO  Attempting to connect to the build server...
+2024.10.14 03:38:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 03:38:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 03:38:09 INFO  time: Connected to build server in 1.41s
+2024.10.14 03:38:09 INFO  Connected to Build server: Bloop v1.6.0
+2024.10.14 03:38:10 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 03:38:10 INFO  running doctor check
+2024.10.14 03:38:10 INFO  java targets: cobalt-build, cobalt-build-build, root-test, root
+2024.10.14 03:38:22 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.14 03:38:24 INFO  time: indexed workspace in 14s
+2024.10.14 03:38:25 INFO  compiling root (4 scala sources)
+2024.10.14 03:38:26 INFO  time: compiled root in 1.69s
+2024.10.14 03:38:26 INFO  compiling root (4 scala sources)
+2024.10.14 03:38:28 INFO  time: compiled root in 1.3s
+2024.10.14 03:38:45 INFO  Shutting down server
+2024.10.14 03:38:45 INFO  shutting down Metals
+2024.10.14 03:38:45 INFO  Shut down connection with build server.
+2024.10.14 03:38:45 INFO  Shut down connection with build server.
+2024.10.14 03:38:45 INFO  Shut down connection with build server.
+2024.10.14 03:38:45 INFO  Exiting server
+2024.10.14 03:41:03 INFO  Started: Metals version 1.3.5 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt' for client Visual Studio Code 1.94.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@477768b6]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@23768706]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@477768b6]
+2024.10.14 03:41:04 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.14 03:41:07 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 03:41:08 INFO  Attempting to connect to the build server...
+2024.10.14 03:41:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 03:41:08 INFO  Attempting to connect to the build server...
+2024.10.14 03:41:08 INFO  Attempting to connect to the build server...
+2024.10.14 03:41:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 03:41:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 03:41:08 INFO  time: Connected to build server in 0.79s
+2024.10.14 03:41:08 INFO  Connected to Build server: Bloop v1.6.0
+2024.10.14 03:41:09 INFO  time: Imported build in 0.14s
+2024.10.14 03:41:11 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 03:41:12 INFO  running doctor check
+2024.10.14 03:41:12 INFO  java targets: cobalt-build, cobalt-build-build, root-test, root
+2024.10.14 03:41:22 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.14 03:41:27 INFO  time: indexed workspace in 15s
+2024.10.14 03:41:36 INFO  compiling root (4 scala sources)
+2024.10.14 03:41:36 INFO  time: compiled root in 0.33s
+2024.10.14 03:41:36 INFO  compiling root (4 scala sources)
+2024.10.14 03:41:38 INFO  time: compiled root in 1.61s
+2024.10.14 03:42:16 INFO  Shutting down server
+2024.10.14 03:42:16 INFO  shutting down Metals
+2024.10.14 03:42:16 INFO  Shut down connection with build server.
+2024.10.14 03:42:16 INFO  Shut down connection with build server.
+2024.10.14 03:42:16 INFO  Shut down connection with build server.
+2024.10.14 03:42:16 INFO  Exiting server
+2024.10.14 20:32:55 INFO  Started: Metals version 1.3.5 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt' for client Visual Studio Code 1.94.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@c7dc785]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2d4ed794]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@c7dc785]
+2024.10.14 20:32:55 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.14 20:32:56 INFO  Attempting to connect to the build server...
+2024.10.14 20:32:56 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.14 20:32:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 20:32:56 INFO  Attempting to connect to the build server...
+2024.10.14 20:32:56 INFO  Attempting to connect to the build server...
+2024.10.14 20:32:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 20:32:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.14 20:32:56 INFO  time: Connected to build server in 0.54s
+2024.10.14 20:32:56 INFO  Connected to Build server: Bloop v1.6.0
+2024.10.14 20:32:56 INFO  running doctor check
+2024.10.14 20:32:56 INFO  java targets: cobalt-build, cobalt-build-build, root-test, root
+2024.10.14 20:32:58 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.14 20:32:58 INFO  time: indexed workspace in 2.04s
+2024.10.14 20:32:59 INFO  compiling root (4 scala sources)
+2024.10.14 20:32:59 INFO  time: compiled root in 0.29s
+2024.10.14 20:32:59 INFO  compiling root (4 scala sources)
+2024.10.14 20:32:59 INFO  time: compiled root in 0.33s
+2024.10.14 20:33:40 INFO  compiling root (4 scala sources)
+2024.10.14 20:33:40 INFO  time: compiled root in 0.28s
+2024.10.14 20:34:13 INFO  compiling root (4 scala sources)
+2024.10.14 20:34:13 INFO  time: compiled root in 0.23s
+2024.10.14 20:35:52 INFO  compiling root (4 scala sources)
+2024.10.14 20:35:52 INFO  time: compiled root in 0.22s
+2024.10.14 20:36:10 INFO  compiling root (4 scala sources)
+2024.10.14 20:36:10 INFO  time: compiled root in 0.25s
+2024.10.14 20:36:47 WARN  Using indexes to guess the definition of interp
+2024.10.14 20:37:06 INFO  compiling root (4 scala sources)
+2024.10.14 20:37:06 INFO  time: compiled root in 0.27s
+2024.10.14 20:37:33 INFO  compiling root (4 scala sources)
+2024.10.14 20:37:33 INFO  time: compiled root in 0.31s
+2024.10.14 20:41:39 INFO  compiling root (4 scala sources)
+2024.10.14 20:41:39 INFO  time: compiled root in 0.26s
+2024.10.14 20:42:39 INFO  compiling root (4 scala sources)
+2024.10.14 20:42:39 INFO  time: compiled root in 0.22s
+2024.10.14 20:42:42 INFO  compiling root (4 scala sources)
+2024.10.14 20:42:42 INFO  time: compiled root in 0.23s
+2024.10.14 20:42:55 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:500)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.10.14 20:42:55 INFO  compiling root (4 scala sources)
+2024.10.14 20:42:55 INFO  time: compiled root in 0.24s
+2024.10.14 20:43:02 INFO  compiling root (4 scala sources)
+2024.10.14 20:43:02 INFO  time: compiled root in 0.23s
+2024.10.14 20:43:06 INFO  compiling root (4 scala sources)
+2024.10.14 20:43:06 INFO  time: compiled root in 0.23s
+2024.10.14 20:43:13 INFO  compiling root (4 scala sources)
+2024.10.14 20:43:13 INFO  time: compiled root in 0.38s
+2024.10.14 20:43:13 INFO  compiling root (4 scala sources)
+2024.10.14 20:43:13 INFO  time: compiled root in 0.21s
+2024.10.14 20:43:13 INFO  compiling root (4 scala sources)
+2024.10.14 20:43:13 INFO  time: compiled root in 0.21s
+2024.10.14 20:44:08 INFO  compiling root (4 scala sources)
+2024.10.14 20:44:08 INFO  time: compiled root in 0.23s
+2024.10.14 20:47:15 INFO  compiling root (4 scala sources)
+2024.10.14 20:47:15 INFO  time: compiled root in 0.26s
+2024.10.14 20:47:17 INFO  compiling root (4 scala sources)
+2024.10.14 20:47:17 INFO  time: compiled root in 0.23s
+2024.10.14 20:47:21 INFO  compiling root (4 scala sources)
+2024.10.14 20:47:21 INFO  time: compiled root in 0.2s
+2024.10.14 20:47:28 INFO  compiling root (4 scala sources)
+2024.10.14 20:47:28 INFO  time: compiled root in 0.25s
+2024.10.14 20:47:31 INFO  compiling root (4 scala sources)
+2024.10.14 20:47:31 INFO  time: compiled root in 0.23s
+2024.10.14 20:47:31 INFO  compiling root (4 scala sources)
+2024.10.14 20:47:31 INFO  time: compiled root in 0.23s
+2024.10.14 20:47:31 INFO  compiling root (4 scala sources)
+2024.10.14 20:47:31 INFO  time: compiled root in 0.2s
+2024.10.14 20:47:59 INFO  compiling root (4 scala sources)
+2024.10.14 20:47:59 INFO  time: compiled root in 0.25s
+2024.10.14 20:53:42 INFO  compiling root (4 scala sources)
+2024.10.14 20:53:42 INFO  time: compiled root in 0.13s
+2024.10.14 20:53:43 INFO  compiling root (4 scala sources)
+2024.10.14 20:53:43 INFO  time: compiled root in 0.26s
+2024.10.14 20:53:51 INFO  compiling root (4 scala sources)
+2024.10.14 20:53:51 INFO  time: compiled root in 0.16s
+2024.10.14 20:53:53 INFO  compiling root (4 scala sources)
+2024.10.14 20:53:53 INFO  time: compiled root in 0.26s
+2024.10.14 20:53:56 INFO  compiling root (4 scala sources)
+2024.10.14 20:53:56 INFO  time: compiled root in 0.1s
+2024.10.14 20:54:04 INFO  compiling root (4 scala sources)
+2024.10.14 20:54:04 INFO  time: compiled root in 65ms
+2024.10.14 20:54:06 INFO  compiling root (4 scala sources)
+2024.10.14 20:54:06 INFO  time: compiled root in 0.25s
+2024.10.14 20:54:12 INFO  compiling root (4 scala sources)
+2024.10.14 20:54:12 WARN  Using indexes to guess the definition of Expr
+2024.10.14 20:54:12 INFO  time: compiled root in 0.24s
+2024.10.14 20:54:12 INFO  compiling root (4 scala sources)
+2024.10.14 20:54:12 INFO  time: compiled root in 0.28s
+2024.10.14 20:54:12 INFO  compiling root (4 scala sources)
+2024.10.14 20:54:12 INFO  time: compiled root in 0.22s
+2024.10.14 20:54:29 INFO  compiling root (4 scala sources)
+2024.10.14 20:54:29 INFO  time: compiled root in 0.24s
+2024.10.14 20:54:33 INFO  compiling root (4 scala sources)
+2024.10.14 20:54:33 INFO  time: compiled root in 90ms
+2024.10.14 20:54:42 INFO  compiling root (4 scala sources)
+2024.10.14 20:54:42 INFO  time: compiled root in 0.13s
+2024.10.14 20:54:43 INFO  compiling root (4 scala sources)
+2024.10.14 20:54:43 INFO  time: compiled root in 0.13s
+2024.10.14 20:55:23 INFO  compiling root (4 scala sources)
+2024.10.14 20:55:23 INFO  time: compiled root in 0.14s
+2024.10.14 20:55:28 INFO  compiling root (4 scala sources)
+2024.10.14 20:55:28 INFO  time: compiled root in 0.11s
+2024.10.14 20:55:30 INFO  compiling root (4 scala sources)
+2024.10.14 20:55:30 INFO  time: compiled root in 89ms
+2024.10.14 20:55:32 INFO  compiling root (4 scala sources)
+2024.10.14 20:55:32 INFO  time: compiled root in 0.13s
+2024.10.14 20:55:51 INFO  compiling root (4 scala sources)
+2024.10.14 20:55:51 INFO  time: compiled root in 93ms
+2024.10.14 20:55:56 INFO  compiling root (4 scala sources)
+2024.10.14 20:55:56 INFO  time: compiled root in 0.13s
+2024.10.14 20:56:17 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:17 INFO  time: compiled root in 0.27s
+2024.10.14 20:56:23 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:23 INFO  time: compiled root in 0.25s
+2024.10.14 20:56:29 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:29 INFO  time: compiled root in 0.4s
+2024.10.14 20:56:33 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:33 INFO  time: compiled root in 0.24s
+2024.10.14 20:56:35 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:35 INFO  time: compiled root in 0.24s
+2024.10.14 20:56:35 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:35 INFO  time: compiled root in 0.21s
+2024.10.14 20:56:41 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:41 INFO  time: compiled root in 0.25s
+2024.10.14 20:56:42 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:42 INFO  time: compiled root in 0.25s
+2024.10.14 20:56:46 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:46 INFO  time: compiled root in 0.24s
+2024.10.14 20:56:47 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:500)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.10.14 20:56:47 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:47 INFO  time: compiled root in 0.25s
+2024.10.14 20:56:51 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:500)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.10.14 20:56:51 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:51 INFO  time: compiled root in 0.25s
+2024.10.14 20:56:59 INFO  compiling root (4 scala sources)
+2024.10.14 20:56:59 INFO  time: compiled root in 0.24s
+Oct 14, 2024 8:57:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1275
+2024.10.14 20:57:03 INFO  compiling root (4 scala sources)
+2024.10.14 20:57:03 INFO  time: compiled root in 0.21s
+2024.10.14 20:57:04 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:500)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.10.14 20:57:04 INFO  compiling root (4 scala sources)
+2024.10.14 20:57:04 INFO  time: compiled root in 0.24s
+2024.10.14 20:57:07 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:500)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.10.14 20:57:07 INFO  compiling root (4 scala sources)
+2024.10.14 20:57:07 INFO  time: compiled root in 0.25s
+2024.10.14 20:57:09 INFO  compiling root (4 scala sources)
+2024.10.14 20:57:09 INFO  time: compiled root in 0.23s
+2024.10.14 20:57:17 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:500)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.10.14 20:57:17 INFO  compiling root (4 scala sources)
+2024.10.14 20:57:17 INFO  time: compiled root in 0.25s
+2024.10.14 20:57:19 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:500)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.10.14 20:57:19 INFO  compiling root (4 scala sources)
+2024.10.14 20:57:19 INFO  time: compiled root in 0.24s
+2024.10.14 20:57:22 INFO  compiling root (4 scala sources)
+2024.10.14 20:57:22 INFO  time: compiled root in 0.24s
+2024.10.14 20:57:24 INFO  compiling root (4 scala sources)
+2024.10.14 20:57:24 INFO  time: compiled root in 0.23s
+2024.10.14 20:57:27 INFO  compiling root (4 scala sources)
+2024.10.14 20:57:27 INFO  time: compiled root in 0.4s
+2024.10.14 20:57:27 INFO  compiling root (4 scala sources)
+2024.10.14 20:57:27 INFO  time: compiled root in 0.22s
+2024.10.14 20:58:23 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:500)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.10.14 20:58:23 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:23 INFO  time: compiled root in 0.25s
+2024.10.14 20:58:26 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:72)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:500)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:84)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:595)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:693)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:690)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:690)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:952)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.10.14 20:58:26 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:26 INFO  time: compiled root in 0.25s
+2024.10.14 20:58:27 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:27 INFO  time: compiled root in 0.24s
+2024.10.14 20:58:31 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:31 INFO  time: compiled root in 0.25s
+2024.10.14 20:58:32 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:32 INFO  time: compiled root in 0.25s
+2024.10.14 20:58:34 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:34 INFO  time: compiled root in 0.24s
+2024.10.14 20:58:35 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:35 INFO  time: compiled root in 0.25s
+2024.10.14 20:58:36 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:36 INFO  time: compiled root in 0.28s
+2024.10.14 20:58:36 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:36 INFO  time: compiled root in 0.21s
+2024.10.14 20:58:36 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:36 INFO  time: compiled root in 0.22s
+2024.10.14 20:58:36 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:36 INFO  time: compiled root in 0.22s
+2024.10.14 20:58:36 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:37 INFO  time: compiled root in 0.23s
+2024.10.14 20:58:39 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:39 INFO  time: compiled root in 0.24s
+2024.10.14 20:58:39 INFO  compiling root (4 scala sources)
+2024.10.14 20:58:39 INFO  time: compiled root in 0.22s
+2024.10.14 20:59:44 INFO  compiling root (4 scala sources)
+2024.10.14 20:59:44 INFO  time: compiled root in 0.28s
+2024.10.14 20:59:51 INFO  compiling root (4 scala sources)
+2024.10.14 20:59:51 INFO  time: compiled root in 0.22s
+2024.10.14 20:59:58 INFO  compiling root (4 scala sources)
+2024.10.14 20:59:58 INFO  time: compiled root in 0.23s
+2024.10.14 21:00:05 INFO  compiling root (4 scala sources)
+2024.10.14 21:00:05 INFO  time: compiled root in 0.25s
+2024.10.14 21:00:07 INFO  compiling root (4 scala sources)
+2024.10.14 21:00:07 INFO  time: compiled root in 0.25s
+2024.10.14 21:00:19 INFO  compiling root (4 scala sources)
+2024.10.14 21:00:19 INFO  time: compiled root in 0.24s
+2024.10.14 21:00:21 INFO  compiling root (4 scala sources)
+2024.10.14 21:00:21 INFO  time: compiled root in 0.23s
+2024.10.14 21:00:21 INFO  compiling root (4 scala sources)
+2024.10.14 21:00:21 INFO  time: compiled root in 0.21s
+2024.10.14 21:00:30 INFO  compiling root (4 scala sources)
+2024.10.14 21:00:30 INFO  time: compiled root in 0.27s
+2024.10.14 21:02:06 INFO  compiling root (4 scala sources)
+2024.10.14 21:02:06 INFO  time: compiled root in 0.13s
+2024.10.14 21:02:06 INFO  compiling root (4 scala sources)
+2024.10.14 21:02:06 INFO  time: compiled root in 99ms
+2024.10.14 21:02:11 INFO  compiling root (4 scala sources)
+2024.10.14 21:02:11 INFO  time: compiled root in 0.24s
+2024.10.14 23:20:57 INFO  compiling root (4 scala sources)
+2024.10.14 23:20:57 INFO  time: compiled root in 0.25s
+Oct 16, 2024 11:14:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:05:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:05:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:05:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:05:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:05:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:07:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:08:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:08:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:08:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:08:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:08:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:08:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:09:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:09:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 17, 2024 1:09:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.25 05:50:57 INFO  Shutting down server
+2024.10.25 05:50:57 INFO  shutting down Metals
+2024.10.25 05:50:57 INFO  Shut down connection with build server.
+2024.10.25 05:50:57 INFO  Shut down connection with build server.
+2024.10.25 05:50:57 INFO  Shut down connection with build server.
+2024.10.25 05:50:57 INFO  Exiting server
+2024.10.25 05:56:03 INFO  Started: Metals version 1.3.5 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt' for client Visual Studio Code 1.94.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@21e7e4a5]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7f6ddd2c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@21e7e4a5]
+2024.10.25 05:56:03 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.25 05:56:04 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.25 05:56:04 INFO  Attempting to connect to the build server...
+2024.10.25 05:56:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.25 05:56:06 INFO  Attempting to connect to the build server...
+2024.10.25 05:56:06 INFO  Attempting to connect to the build server...
+2024.10.25 05:56:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.25 05:56:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.25 05:56:06 INFO  time: Connected to build server in 2.15s
+2024.10.25 05:56:06 INFO  Connected to Build server: Bloop v1.6.0
+2024.10.25 05:56:06 INFO  time: Imported build in 0.1s
+2024.10.25 05:56:06 INFO  running doctor check
+2024.10.25 05:56:06 INFO  java targets: cobalt-build, cobalt-build-build, root-test, root
+2024.10.25 05:56:13 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.25 05:56:14 INFO  time: indexed workspace in 7.73s
+2024.10.25 05:56:14 INFO  compiling root (4 scala sources)
+2024.10.25 05:56:17 INFO  time: compiled root in 2.51s
+2024.10.25 05:56:17 INFO  compiling root (4 scala sources)
+2024.10.25 05:56:17 INFO  time: compiled root in 0.63s
+2024.10.25 05:57:00 INFO  Shutting down server
+2024.10.25 05:57:00 INFO  shutting down Metals
+2024.10.25 05:57:00 INFO  Shut down connection with build server.
+2024.10.25 05:57:00 INFO  Shut down connection with build server.
+2024.10.25 05:57:00 INFO  Shut down connection with build server.
+2024.10.25 05:57:00 INFO  Exiting server
+2024.10.25 05:57:54 INFO  Started: Metals version 1.4.0 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt' for client Visual Studio Code 1.94.2.
+2024.10.25 05:57:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.10.25 05:57:54 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct 25, 2024 5:58:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.10.25 05:58:39 INFO  Shutting down server
+2024.10.25 05:58:39 INFO  shutting down Metals
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@3a832c9c[Shutting down, pool size = 2, active threads = 2, queued tasks = 0, completed tasks = 93]
+2024.11.19 04:41:37 INFO  Started: Metals version 1.4.1 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt' for client Visual Studio Code 1.95.2.
+2024.11.19 04:41:39 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.19 04:41:39 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 04:41:39 INFO  Attempting to connect to the build server...
+2024.11.19 04:41:39 INFO  Found a Bloop server running
+2024.11.19 04:41:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.19 04:41:39 INFO  Attempting to connect to the build server...
+2024.11.19 04:41:39 INFO  Found a Bloop server running
+2024.11.19 04:41:39 INFO  Attempting to connect to the build server...
+2024.11.19 04:41:39 INFO  Found a Bloop server running
+2024.11.19 04:41:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.19 04:41:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.19 04:41:39 INFO  time: Connected to build server in 0.31s
+2024.11.19 04:41:39 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.19 04:41:40 INFO  running doctor check
+2024.11.19 04:41:40 INFO  java targets: cobalt-build, cobalt-build-build, root-test, root
+Nov 19, 2024 4:41:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Nov 19, 2024 4:41:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Nov 19, 2024 4:41:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2024.11.19 04:41:41 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.19 04:41:41 INFO  time: indexed workspace in 2.25s
+2024.11.19 04:41:45 INFO  compiling root (4 scala sources)
+2024.11.19 04:41:45 WARN  No plugin in path target/scala-3.3.3/compiler_plugins/wartremover_3.3.3-3.1.6.jar
+2024.11.19 04:41:45 INFO  time: compiled root in 50ms
+2024.11.19 04:41:45 INFO  compiling root (4 scala sources)
+2024.11.19 04:41:45 WARN  No plugin in path target/scala-3.3.3/compiler_plugins/wartremover_3.3.3-3.1.6.jar
+2024.11.19 04:41:45 INFO  time: compiled root in 22ms
+2024.11.19 04:46:12 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.19 04:46:13 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg/MAGNET.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 04:46:12 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg/MAGNET.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 04:46:13 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg/MAGNET.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 04:46:14 INFO  Running List(/Users/zs_olef.x/Library/Application Support/Coursier/bin/scala-cli, bsp, --workspace, /var/folders/l5/qqwf31rd1sx1kmrxvwshn7gr0000gn/T/metals-scala-cli15243221942812485660, --semantic-db-source-root, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg/MAGNET.scala)
+2024.11.19 04:46:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.19 04:46:15 INFO  time: code lens generation in 1.47s
+2024.11.19 04:46:15 INFO  Connected to Scala CLI server v1.5.0
+2024.11.19 04:46:15 INFO  compiling metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 (1 scala source)
+2024.11.19 04:46:15 INFO  time: compiled metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 in 0.2s
+2024.11.19 04:46:15 INFO  compiling metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 (1 scala source)
+2024.11.19 04:46:15 INFO  time: compiled metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 in 0.27s
+2024.11.19 04:46:15 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.19 04:46:16 INFO  time: indexed workspace in 1.21s
+2024.11.19 04:46:16 INFO  compiling metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 (1 scala source)
+2024.11.19 04:46:16 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 04:46:16 INFO  Running List(/Users/zs_olef.x/Library/Application Support/Coursier/bin/scala-cli, bsp, --workspace, /var/folders/l5/qqwf31rd1sx1kmrxvwshn7gr0000gn/T/metals-scala-cli15243221942812485660, --semantic-db-source-root, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg/Spec.scala)
+2024.11.19 04:46:16 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 04:46:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.19 04:46:16 INFO  time: compiled metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 in 0.26s
+2024.11.19 04:46:16 INFO  Scala CLI started for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg/MAGNET.scala
+2024.11.19 04:46:16 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 04:46:16 INFO  compiling metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 (1 scala source)
+2024.11.19 04:46:16 INFO  time: compiled metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 in 0.15s
+2024.11.19 04:46:17 INFO  Connected to Scala CLI server v1.5.0
+2024.11.19 04:46:18 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 04:46:18 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 59ms
+2024.11.19 04:46:18 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 04:46:18 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 34ms
+2024.11.19 04:46:18 INFO  time: indexed workspace in 0.76s
+2024.11.19 04:46:18 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 04:46:18 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 39ms
+2024.11.19 04:46:19 INFO  Scala CLI started for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg/Spec.scala
+2024.11.19 04:46:18 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 04:46:18 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 27ms
+2024.11.19 04:46:29 INFO  compiling metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 (1 scala source)
+2024.11.19 04:46:29 INFO  time: compiled metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 in 0.14s
+Nov 19, 2024 4:53:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 130
+2024.11.19 04:59:17 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 04:59:17 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 41ms
+2024.11.19 04:59:36 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 04:59:36 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 49ms
+2024.11.19 04:59:41 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 04:59:41 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 46ms
+2024.11.19 04:59:47 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 04:59:47 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 37ms
+2024.11.19 04:59:49 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 04:59:49 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 46ms
+2024.11.19 04:59:54 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 04:59:54 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 47ms
+2024.11.19 05:18:17 INFO  compiling metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 (1 scala source)
+2024.11.19 05:18:17 INFO  time: compiled metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 in 0.17s
+2024.11.19 17:28:40 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 17:28:40 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 45ms
+2024.11.19 17:28:45 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 17:28:45 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 50ms
+2024.11.19 17:28:49 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.19 17:28:49 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 37ms
+2024.11.19 17:45:03 INFO  compiling metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 (1 scala source)
+2024.11.19 17:45:03 INFO  time: compiled metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 in 0.15s
+2024.11.19 21:44:08 INFO  Shut down connection with build server.
+2024.11.19 21:44:12 INFO  Running List(/Users/zs_olef.x/Library/Application Support/Coursier/bin/scala-cli, bsp, --workspace, /var/folders/l5/qqwf31rd1sx1kmrxvwshn7gr0000gn/T/metals-scala-cli15243221942812485660, --semantic-db-source-root, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg/MAGNET.scala)
+2024.11.19 21:44:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.19 21:44:13 INFO  Connected to Scala CLI server v1.5.0
+2024.11.19 21:44:13 INFO  compiling metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 (1 scala source)
+2024.11.19 21:44:13 INFO  time: compiled metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 in 0.14s
+2024.11.19 21:44:13 INFO  compiling metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 (1 scala source)
+2024.11.19 21:44:13 INFO  time: compiled metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 in 0.13s
+2024.11.19 21:44:13 INFO  time: indexed workspace in 0.7s
+2024.11.19 21:44:13 INFO  compiling metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 (1 scala source)
+2024.11.19 21:44:13 INFO  time: compiled metals-scala-cli15243221942812485660_5d53aa734b-f7a323e439 in 0.15s
+2024.11.19 21:44:14 INFO  Scala CLI started for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg/MAGNET.scala
+Nov 19, 2024 9:51:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.19 21:52:20 INFO  [0m[31m[E][0m Caught java.lang.InterruptedException
+2024.11.19 21:52:20 INFO  [0m[31m[E][0m Caught java.lang.InterruptedException
+2024.11.19 21:52:20 INFO  Scala CLI: [E] Caught java.lang.InterruptedException
+2024.11.19 21:52:20 INFO  Scala CLI: Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+2024.11.19 21:52:20 INFO  Scala CLI: Running the clean sub-command to clear the working directory and remove caches might help.
+2024.11.19 21:52:20 INFO  Scala CLI: If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing -v -v -v.
+2024.11.19 21:52:20 INFO  [0m[31m[E][0m Caught java.lang.InterruptedException
+2024.11.19 21:52:20 INFO  Scala CLI: [E] Caught java.lang.InterruptedException
+2024.11.19 21:52:20 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.19 21:52:20 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.19 21:52:20 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.19 21:52:20 INFO  Scala CLI: Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+2024.11.19 21:52:20 INFO  Scala CLI: Running the clean sub-command to clear the working directory and remove caches might help.
+2024.11.19 21:52:20 INFO  No running Bloop server found, starting one.
+2024.11.19 21:52:20 INFO  No running Bloop server found, starting one.
+2024.11.19 21:52:20 INFO  Scala CLI: If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing -v -v -v.
+2024.11.19 21:52:20 INFO  No running Bloop server found, starting one.
+2024.11.19 21:52:26 INFO  Starting compilation server
+2024.11.19 21:52:26 INFO  Starting compilation server
+2024.11.19 21:52:26 INFO  Starting compilation server
+2024.11.19 21:52:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.19 21:52:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.19 21:52:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.19 21:52:27 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.19 21:52:26 INFO  time: Imported build in 0.14s
+2024.11.19 21:52:26 INFO  running doctor check
+2024.11.19 21:52:26 INFO  java targets: cobalt-build, cobalt-build-build, root-test, root
+2024.11.19 21:52:29 INFO  time: indexed workspace in 1.35s
+2024.11.19 21:52:29 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg/Spec.scala
+2024.11.19 21:52:29 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/main/scala/kuplrg/MAGNET.scala
+2024.11.19 21:54:06 INFO  compiling root (4 scala sources)
+2024.11.19 21:54:06 WARN  No plugin in path target/scala-3.3.3/compiler_plugins/wartremover_3.3.3-3.1.6.jar
+2024.11.19 21:54:06 INFO  time: compiled root in 42ms
+2024.11.20 01:13:44 INFO  Scala CLI: Fatal error has occured within bloop bsp server, method: buildTargetCompile, with params: CompileParams [
+2024.11.20 01:13:44 INFO  Scala CLI:   targets = ArrayList (
+2024.11.20 01:13:44 INFO  Scala CLI:     BuildTargetIdentifier [
+2024.11.20 01:13:44 INFO  Scala CLI:       uri = "file:/var/folders/l5/qqwf31rd1sx1kmrxvwshn7gr0000gn/T/metals-scala-cli15243221942812485660/.scala-build/?id=metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9"
+2024.11.20 01:13:44 INFO  Scala CLI:     ]
+2024.11.20 01:13:44 INFO  Scala CLI:   )
+2024.11.20 01:13:44 INFO  Scala CLI:   originId = "METALS-$61c29ae4-a9fc-4b1d-aee0-a48191b7c747"
+2024.11.20 01:13:44 INFO  Scala CLI:   arguments = ArrayList (
+2024.11.20 01:13:44 INFO  Scala CLI:     "--best-effort"
+2024.11.20 01:13:44 INFO  Scala CLI:   )
+2024.11.20 01:13:44 INFO  Scala CLI: ]. Shutting down the server:
+2024.11.20 01:13:44 INFO  Scala CLI:  org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 01:13:44 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at jdk.proxy4/jdk.proxy4.$Proxy49.buildTargetCompile(Unknown Source)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at scala.build.bsp.BuildServerForwardStubs.buildTargetCompile(BuildServerForwardStubs.scala:40)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at scala.build.bsp.BuildServerForwardStubs.buildTargetCompile$(BuildServerForwardStubs.scala:9)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at scala.build.bsp.BspServer.buildTargetCompile$$anonfun$1(BspServer.scala:203)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at scala.build.bsp.BspImpl.compile$$anonfun$1(BspImpl.scala:355)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at com.oracle.svm.core.posix.thread.PosixPlatformThreads.pthreadStartRoutine(PosixPlatformThreads.java:203)
+2024.11.20 01:13:44 INFO  Scala CLI: Caused by: java.io.IOException: Broken pipe
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.FileDispatcherImpl.write0(FileDispatcherImpl.java)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:53)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFully(Channels.java:93)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels$1.write(Channels.java:171)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at java.base@17.0.6/java.io.OutputStream.write(OutputStream.java:127)
+2024.11.20 01:13:44 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+2024.11.20 01:13:44 INFO  Scala CLI: 	... 15 more
+2024.11.20 01:13:44 INFO  Scala CLI: 
+2024.11.20 01:13:45 INFO  Running List(/Users/zs_olef.x/Library/Application Support/Coursier/bin/scala-cli, bsp, --workspace, /var/folders/l5/qqwf31rd1sx1kmrxvwshn7gr0000gn/T/metals-scala-cli15243221942812485660, --semantic-db-source-root, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg/Spec.scala)
+2024.11.20 01:13:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet/src/test/scala/kuplrg/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.20 01:13:46 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.20 01:13:46 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 0.71s
+2024.11.20 01:13:46 INFO  compiling metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 (1 scala source)
+2024.11.20 01:13:46 INFO  time: compiled metals-scala-cli15243221942812485660_81f0e1be90-5f89cd85d9 in 99ms
+2024.11.20 02:21:17 INFO  Running List(/Users/zs_olef.x/Library/Application Support/Coursier/bin/scala-cli, bsp, --workspace, /var/folders/l5/qqwf31rd1sx1kmrxvwshn7gr0000gn/T/metals-scala-cli15243221942812485660, --semantic-db-source-root, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/MAGNET.scala)
+2024.11.20 02:21:17 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/MAGNET.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 02:21:17 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/MAGNET.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 02:21:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.20 02:21:19 INFO  Connected to Scala CLI server v1.5.0
+2024.11.20 02:21:19 INFO  compiling metals-scala-cli15243221942812485660_72491de2b0-cc18df99d6 (1 scala source)
+2024.11.20 02:21:20 INFO  time: indexed workspace in 1.09s
+2024.11.20 02:21:20 INFO  Scala CLI: Nov 20, 2024 2:21:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.11.20 02:21:20 INFO  Scala CLI: SEVERE: Internal error: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:20 INFO  Scala CLI: java.util.concurrent.CompletionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2182)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at com.oracle.svm.core.posix.thread.PosixPlatformThreads.pthreadStartRoutine(PosixPlatformThreads.java:203)
+2024.11.20 02:21:20 INFO  Scala CLI: Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at jdk.proxy4/jdk.proxy4.$Proxy49.buildTargetScalaTestClasses(Unknown Source)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaTestClasses(ScalaBuildServerForwardStubs.scala:16)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaTestClasses$(ScalaBuildServerForwardStubs.scala:7)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at scala.build.bsp.BspServer.buildTargetScalaTestClasses(BspServer.scala:18)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at scala.build.bsp.BuildServerProxy.buildTargetScalaTestClasses(BuildServerProxy.scala:68)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.reflect.Method.invoke(Method.java:568)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+2024.11.20 02:21:20 INFO  Scala CLI: 	... 11 more
+2024.11.20 02:21:20 INFO  Scala CLI: Caused by: java.io.IOException: Broken pipe
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.FileDispatcherImpl.write0(FileDispatcherImpl.java)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:53)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFully(Channels.java:93)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels$1.write(Channels.java:171)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.io.OutputStream.write(OutputStream.java:127)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+2024.11.20 02:21:20 INFO  Scala CLI: 	... 22 more
+2024.11.20 02:21:20 INFO  Scala CLI: 
+2024.11.20 02:21:20 INFO  Scala CLI: Nov 20, 2024 2:21:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.11.20 02:21:20 INFO  Scala CLI: SEVERE: Internal error: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:20 INFO  Scala CLI: java.util.concurrent.CompletionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2182)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at com.oracle.svm.core.posix.thread.PosixPlatformThreads.pthreadStartRoutine(PosixPlatformThreads.java:203)
+2024.11.20 02:21:20 INFO  Scala CLI: Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at jdk.proxy4/jdk.proxy4.$Proxy49.buildTargetScalaMainClasses(Unknown Source)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaMainClasses(ScalaBuildServerForwardStubs.scala:12)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaMainClasses$(ScalaBuildServerForwardStubs.scala:7)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at scala.build.bsp.BspServer.buildTargetScalaMainClasses(BspServer.scala:18)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at scala.build.bsp.BuildServerProxy.buildTargetScalaMainClasses(BuildServerProxy.scala:72)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.reflect.Method.invoke(Method.java:568)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+2024.11.20 02:21:20 INFO  Scala CLI: 	... 11 more
+2024.11.20 02:21:20 INFO  Scala CLI: Caused by: java.io.IOException: Broken pipe
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.FileDispatcherImpl.write0(FileDispatcherImpl.java)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:53)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+2024.11.20 02:21:20 INFO  Scala main classes not supported by server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.11.20 02:21:20 INFO  Scala test classes not supported by server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFully(Channels.java:93)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels$1.write(Channels.java:171)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at java.base@17.0.6/java.io.OutputStream.write(OutputStream.java:127)
+2024.11.20 02:21:20 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+2024.11.20 02:21:20 INFO  Scala CLI: 	... 22 more
+2024.11.20 02:21:20 INFO  Scala CLI: 
+2024.11.20 02:21:20 INFO  time: compiled metals-scala-cli15243221942812485660_72491de2b0-cc18df99d6 in 1.06s
+2024.11.20 02:21:20 INFO  compiling metals-scala-cli15243221942812485660_72491de2b0-cc18df99d6 (1 scala source)
+2024.11.20 02:21:20 INFO  time: compiled metals-scala-cli15243221942812485660_72491de2b0-cc18df99d6 in 0.51s
+2024.11.20 02:21:20 INFO  compiling metals-scala-cli15243221942812485660_72491de2b0-cc18df99d6 (1 scala source)
+2024.11.20 02:21:21 INFO  time: compiled metals-scala-cli15243221942812485660_72491de2b0-cc18df99d6 in 0.53s
+2024.11.20 02:21:21 INFO  Scala CLI started for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/MAGNET.scala
+2024.11.20 02:21:24 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 02:21:24 INFO  Running List(/Users/zs_olef.x/Library/Application Support/Coursier/bin/scala-cli, bsp, --workspace, /var/folders/l5/qqwf31rd1sx1kmrxvwshn7gr0000gn/T/metals-scala-cli15243221942812485660, --semantic-db-source-root, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala)
+2024.11.20 02:21:24 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 02:21:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.20 02:21:24 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 02:21:24 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 02:21:25 INFO  Connected to Scala CLI server v1.5.0
+2024.11.20 02:21:25 INFO  compiling metals-scala-cli15243221942812485660_2f8c888530-bc45fd4364 (1 scala source)
+2024.11.20 02:21:25 INFO  time: compiled metals-scala-cli15243221942812485660_2f8c888530-bc45fd4364 in 50ms
+2024.11.20 02:21:25 INFO  compiling metals-scala-cli15243221942812485660_2f8c888530-bc45fd4364 (1 scala source)
+2024.11.20 02:21:25 INFO  time: compiled metals-scala-cli15243221942812485660_2f8c888530-bc45fd4364 in 45ms
+2024.11.20 02:21:26 INFO  time: indexed workspace in 0.89s
+2024.11.20 02:21:26 INFO  Scala CLI: Nov 20, 2024 2:21:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.11.20 02:21:26 INFO  Scala CLI: SEVERE: Internal error: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:26 INFO  Scala CLI: java.util.concurrent.CompletionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2182)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at com.oracle.svm.core.posix.thread.PosixPlatformThreads.pthreadStartRoutine(PosixPlatformThreads.java:203)
+2024.11.20 02:21:26 INFO  Scala CLI: Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at jdk.proxy4/jdk.proxy4.$Proxy49.buildTargetScalaTestClasses(Unknown Source)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaTestClasses(ScalaBuildServerForwardStubs.scala:16)
+2024.11.20 02:21:26 INFO  Scala test classes not supported by server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.11.20 02:21:26 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaTestClasses$(ScalaBuildServerForwardStubs.scala:7)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at scala.build.bsp.BspServer.buildTargetScalaTestClasses(BspServer.scala:18)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at scala.build.bsp.BuildServerProxy.buildTargetScalaTestClasses(BuildServerProxy.scala:68)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.reflect.Method.invoke(Method.java:568)
+2024.11.20 02:21:26 INFO  Scala main classes not supported by server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+2024.11.20 02:21:26 INFO  Scala CLI: 	... 11 more
+2024.11.20 02:21:26 INFO  Scala CLI: Caused by: java.io.IOException: Broken pipe
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.FileDispatcherImpl.write0(FileDispatcherImpl.java)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:53)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFully(Channels.java:93)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels$1.write(Channels.java:171)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.io.OutputStream.write(OutputStream.java:127)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+2024.11.20 02:21:26 INFO  Scala CLI: 	... 22 more
+2024.11.20 02:21:26 INFO  Scala CLI: 
+2024.11.20 02:21:26 INFO  Scala CLI: Nov 20, 2024 2:21:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.11.20 02:21:26 INFO  Scala CLI: SEVERE: Internal error: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:26 INFO  Scala CLI: java.util.concurrent.CompletionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2182)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at com.oracle.svm.core.posix.thread.PosixPlatformThreads.pthreadStartRoutine(PosixPlatformThreads.java:203)
+2024.11.20 02:21:26 INFO  Scala CLI: Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at jdk.proxy4/jdk.proxy4.$Proxy49.buildTargetScalaMainClasses(Unknown Source)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaMainClasses(ScalaBuildServerForwardStubs.scala:12)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaMainClasses$(ScalaBuildServerForwardStubs.scala:7)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at scala.build.bsp.BspServer.buildTargetScalaMainClasses(BspServer.scala:18)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at scala.build.bsp.BuildServerProxy.buildTargetScalaMainClasses(BuildServerProxy.scala:72)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.reflect.Method.invoke(Method.java:568)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+2024.11.20 02:21:26 INFO  Scala CLI: 	... 11 more
+2024.11.20 02:21:26 INFO  Scala CLI: Caused by: java.io.IOException: Broken pipe
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.FileDispatcherImpl.write0(FileDispatcherImpl.java)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:53)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFully(Channels.java:93)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels$1.write(Channels.java:171)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at java.base@17.0.6/java.io.OutputStream.write(OutputStream.java:127)
+2024.11.20 02:21:26 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+2024.11.20 02:21:26 INFO  Scala CLI: 	... 22 more
+2024.11.20 02:21:26 INFO  Scala CLI: 
+2024.11.20 02:21:25 INFO  compiling metals-scala-cli15243221942812485660_2f8c888530-bc45fd4364 (1 scala source)
+2024.11.20 02:21:25 INFO  time: compiled metals-scala-cli15243221942812485660_2f8c888530-bc45fd4364 in 37ms
+2024.11.20 02:21:26 INFO  Scala CLI started for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala
+2024.11.20 02:26:14 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.11.20 02:26:17 ERROR /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.11.20 04:14:14 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 04:14:14 INFO  Running List(/Users/zs_olef.x/Library/Application Support/Coursier/bin/scala-cli, bsp, --workspace, /var/folders/l5/qqwf31rd1sx1kmrxvwshn7gr0000gn/T/metals-scala-cli15243221942812485660, --semantic-db-source-root, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala)
+2024.11.20 04:14:14 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 04:14:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.20 04:14:14 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 04:14:14 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 04:14:14 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 04:14:15 INFO  Connected to Scala CLI server v1.5.0
+2024.11.20 04:14:15 INFO  compiling metals-scala-cli15243221942812485660_72491de2b0-097d3d76d0 (1 scala source)
+2024.11.20 04:14:15 INFO  time: compiled metals-scala-cli15243221942812485660_72491de2b0-097d3d76d0 in 0.12s
+2024.11.20 04:14:15 INFO  compiling metals-scala-cli15243221942812485660_72491de2b0-097d3d76d0 (1 scala source)
+2024.11.20 04:14:15 INFO  time: compiled metals-scala-cli15243221942812485660_72491de2b0-097d3d76d0 in 0.14s
+2024.11.20 04:14:16 INFO  time: indexed workspace in 0.88s
+2024.11.20 04:14:16 INFO  Scala CLI: Nov 20, 2024 4:14:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.11.20 04:14:16 INFO  Scala CLI: SEVERE: Internal error: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 04:14:16 INFO  Scala CLI: java.util.concurrent.CompletionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2182)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at com.oracle.svm.core.posix.thread.PosixPlatformThreads.pthreadStartRoutine(PosixPlatformThreads.java:203)
+2024.11.20 04:14:16 INFO  Scala CLI: Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at jdk.proxy4/jdk.proxy4.$Proxy49.buildTargetScalaTestClasses(Unknown Source)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaTestClasses(ScalaBuildServerForwardStubs.scala:16)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaTestClasses$(ScalaBuildServerForwardStubs.scala:7)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at scala.build.bsp.BspServer.buildTargetScalaTestClasses(BspServer.scala:18)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at scala.build.bsp.BuildServerProxy.buildTargetScalaTestClasses(BuildServerProxy.scala:68)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.reflect.Method.invoke(Method.java:568)
+2024.11.20 04:14:16 INFO  Scala test classes not supported by server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+2024.11.20 04:14:16 INFO  Scala main classes not supported by server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+2024.11.20 04:14:16 INFO  Scala CLI: 	... 11 more
+2024.11.20 04:14:16 INFO  Scala CLI: Caused by: java.io.IOException: Broken pipe
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.FileDispatcherImpl.write0(FileDispatcherImpl.java)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:53)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFully(Channels.java:93)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels$1.write(Channels.java:171)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.io.OutputStream.write(OutputStream.java:127)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+2024.11.20 04:14:16 INFO  Scala CLI: 	... 22 more
+2024.11.20 04:14:16 INFO  Scala CLI: 
+2024.11.20 04:14:16 INFO  Scala CLI: Nov 20, 2024 4:14:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.11.20 04:14:16 INFO  Scala CLI: SEVERE: Internal error: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 04:14:16 INFO  Scala CLI: java.util.concurrent.CompletionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2182)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at com.oracle.svm.core.posix.thread.PosixPlatformThreads.pthreadStartRoutine(PosixPlatformThreads.java:203)
+2024.11.20 04:14:16 INFO  Scala CLI: Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at jdk.proxy4/jdk.proxy4.$Proxy49.buildTargetScalaMainClasses(Unknown Source)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaMainClasses(ScalaBuildServerForwardStubs.scala:12)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at scala.build.bsp.ScalaBuildServerForwardStubs.buildTargetScalaMainClasses$(ScalaBuildServerForwardStubs.scala:7)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at scala.build.bsp.BspServer.buildTargetScalaMainClasses(BspServer.scala:18)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at scala.build.bsp.BuildServerProxy.buildTargetScalaMainClasses(BuildServerProxy.scala:72)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.lang.reflect.Method.invoke(Method.java:568)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+2024.11.20 04:14:16 INFO  Scala CLI: 	... 11 more
+2024.11.20 04:14:16 INFO  Scala CLI: Caused by: java.io.IOException: Broken pipe
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.FileDispatcherImpl.write0(FileDispatcherImpl.java)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:53)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels.writeFully(Channels.java:93)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.nio.channels.Channels$1.write(Channels.java:171)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at java.base@17.0.6/java.io.OutputStream.write(OutputStream.java:127)
+2024.11.20 04:14:16 INFO  Scala CLI: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+2024.11.20 04:14:16 INFO  Scala CLI: 	... 22 more
+2024.11.20 04:14:16 INFO  Scala CLI: 
+2024.11.20 04:14:15 INFO  compiling metals-scala-cli15243221942812485660_72491de2b0-097d3d76d0 (1 scala source)
+2024.11.20 04:14:16 INFO  time: compiled metals-scala-cli15243221942812485660_72491de2b0-097d3d76d0 in 0.14s
+2024.11.20 04:14:16 INFO  Scala CLI started for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala
+Nov 20, 2024 4:27:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.20 04:42:02 INFO  Shutting down server
+2024.11.20 04:42:02 INFO  shutting down Metals
+2024.11.20 04:42:02 INFO  Shut down connection with build server.
+2024.11.20 04:42:02 INFO  Shut down connection with build server.
+2024.11.20 04:42:02 INFO  Shut down connection with build server.
+2024.11.20 04:42:02 INFO  Exiting server
+2024.11.20 10:52:06 INFO  Started: Metals version 1.4.1 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt' for client Visual Studio Code 1.95.3.
+2024.11.20 10:52:06 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.20 10:52:07 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 10:52:07 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 10:52:07 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 10:52:07 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 10:52:08 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.20 10:52:08 INFO  Attempting to connect to the build server...
+2024.11.20 10:52:08 INFO  Found a Bloop server running
+2024.11.20 10:52:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.20 10:52:08 INFO  Attempting to connect to the build server...
+2024.11.20 10:52:08 INFO  Found a Bloop server running
+2024.11.20 10:52:08 INFO  Attempting to connect to the build server...
+2024.11.20 10:52:08 INFO  Found a Bloop server running
+2024.11.20 10:52:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.20 10:52:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.20 10:52:08 INFO  time: Connected to build server in 0.39s
+2024.11.20 10:52:08 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.20 10:52:08 INFO  running doctor check
+2024.11.20 10:52:08 INFO  java targets: cobalt-build, cobalt-build-build, root-test, root
+2024.11.20 10:52:09 INFO  Running List(/Users/zs_olef.x/Library/Application Support/Coursier/bin/scala-cli, bsp, --workspace, /var/folders/l5/qqwf31rd1sx1kmrxvwshn7gr0000gn/T/metals-scala-cli4643172343758489216, --semantic-db-source-root, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala)
+2024.11.20 10:52:09 INFO  Running List(/Users/zs_olef.x/Library/Application Support/Coursier/bin/scala-cli, bsp, --workspace, /var/folders/l5/qqwf31rd1sx1kmrxvwshn7gr0000gn/T/metals-scala-cli4643172343758489216, --semantic-db-source-root, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg, /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala)
+2024.11.20 10:52:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.20 10:52:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.11.20 10:52:10 INFO  time: code lens generation in 2.72s
+2024.11.20 10:52:10 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.20 10:52:10 INFO  Connected to Scala CLI server v1.5.0
+2024.11.20 10:52:10 INFO  Connected to Scala CLI server v1.5.0
+2024.11.20 10:52:10 INFO  time: code lens generation in 2.99s
+2024.11.20 10:52:11 INFO  compiling metals-scala-cli4643172343758489216_2f8c888530-bc45fd4364 (1 scala source)
+2024.11.20 10:52:11 INFO  compiling metals-scala-cli4643172343758489216_72491de2b0-097d3d76d0 (1 scala source)
+Nov 20, 2024 10:52:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.20 10:52:11 INFO  time: compiled metals-scala-cli4643172343758489216_72491de2b0-097d3d76d0 in 0.31s
+2024.11.20 10:52:11 INFO  time: compiled metals-scala-cli4643172343758489216_2f8c888530-bc45fd4364 in 0.37s
+2024.11.20 10:52:11 INFO  compiling metals-scala-cli4643172343758489216_2f8c888530-bc45fd4364 (1 scala source)
+2024.11.20 10:52:11 INFO  compiling metals-scala-cli4643172343758489216_72491de2b0-097d3d76d0 (1 scala source)
+2024.11.20 10:52:11 INFO  time: compiled metals-scala-cli4643172343758489216_2f8c888530-bc45fd4364 in 62ms
+2024.11.20 10:52:11 INFO  time: compiled metals-scala-cli4643172343758489216_72491de2b0-097d3d76d0 in 0.21s
+2024.11.20 10:52:16 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.20 10:52:16 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.20 10:52:16 INFO  time: indexed workspace in 6.29s
+2024.11.20 10:52:16 INFO  time: indexed workspace in 8.45s
+2024.11.20 10:52:17 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala
+2024.11.20 10:52:17 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala
+2024.11.20 10:52:17 INFO  time: indexed workspace in 6.47s
+2024.11.20 10:52:17 INFO  compiling metals-scala-cli4643172343758489216_2f8c888530-bc45fd4364 (1 scala source)
+2024.11.20 10:52:17 INFO  time: compiled metals-scala-cli4643172343758489216_2f8c888530-bc45fd4364 in 64ms
+2024.11.20 10:52:16 INFO  Scala CLI started for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/test/scala/kuplrg/Spec.scala
+2024.11.20 10:52:17 INFO  compiling metals-scala-cli4643172343758489216_72491de2b0-097d3d76d0 (1 scala source)
+2024.11.20 10:52:17 INFO  compiling metals-scala-cli4643172343758489216_2f8c888530-bc45fd4364 (1 scala source)
+2024.11.20 10:52:17 INFO  time: compiled metals-scala-cli4643172343758489216_2f8c888530-bc45fd4364 in 61ms
+2024.11.20 10:52:17 INFO  time: compiled metals-scala-cli4643172343758489216_72491de2b0-097d3d76d0 in 0.13s
+2024.11.20 10:52:17 INFO  Scala CLI started for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/magnet2/src/main/scala/kuplrg/Implementation.scala
+2024.11.20 10:52:17 INFO  compiling metals-scala-cli4643172343758489216_72491de2b0-097d3d76d0 (1 scala source)
+2024.11.20 10:52:17 INFO  time: compiled metals-scala-cli4643172343758489216_72491de2b0-097d3d76d0 in 92ms
+Nov 20, 2024 11:14:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.20 13:20:38 INFO  Shutting down server
+2024.11.20 13:20:38 INFO  shutting down Metals
+2024.11.20 13:20:38 INFO  Shut down connection with build server.
+2024.11.20 13:20:38 INFO  Shut down connection with build server.
+2024.11.20 13:20:38 INFO  Shut down connection with build server.
+2024.11.20 13:20:38 INFO  Exiting server

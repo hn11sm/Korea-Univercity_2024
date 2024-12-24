@@ -1,0 +1,2 @@
+2024-10-25 05:58:39.819855+09:00 database: opening /Users/zs_olef.x/Work/Major/Programing Language/Assignments/cobalt/.metals/metals
+org.h2.message.DbException: Error opening database: "Sleep interrupted" [8000-232]

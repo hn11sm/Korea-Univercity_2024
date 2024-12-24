@@ -1,0 +1,690 @@
+2024.12.09 12:12:51 INFO  Started: Metals version 1.4.1 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery' for client Visual Studio Code 1.95.3.
+2024.12.09 12:12:51 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 12:12:52 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:52 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:53 INFO  running '/Users/zs_olef.x/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.12.09 12:12:53 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:54 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/project/metals.sbt
+2024.12.09 12:12:54 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/metals.sbt
+2024.12.09 12:12:54 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:54 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:53 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:54 INFO  [info] welcome to sbt 1.9.9 (Oracle Corporation Java 17.0.12)
+2024.12.09 12:12:54 INFO  [info] loading settings for project final-assignment-battery-build-build-build from metals.sbt ...
+2024.12.09 12:12:55 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:55 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:55 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:55 INFO  [info] loading project definition from /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/project/project
+2024.12.09 12:12:55 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:56 WARN  no build target for: /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala
+2024.12.09 12:12:56 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:56 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 12:12:57 INFO  [info] loading settings for project final-assignment-battery-build-build from metals.sbt ...
+2024.12.09 12:12:57 INFO  [info] loading project definition from /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/project
+2024.12.09 12:12:57 INFO  [success] Generated .bloop/final-assignment-battery-build-build.json
+2024.12.09 12:12:57 INFO  [success] Total time: 1 s, completed 2024. 12. 9. 오후 12:12:58
+2024.12.09 12:12:58 INFO  [info] loading settings for project final-assignment-battery-build from metals.sbt,plugins.sbt ...
+2024.12.09 12:12:58 INFO  [info] loading project definition from /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project
+2024.12.09 12:12:58 INFO  [success] Generated .bloop/final-assignment-battery-build.json
+2024.12.09 12:12:58 INFO  [success] Total time: 1 s, completed 2024. 12. 9. 오후 12:12:59
+2024.12.09 12:13:00 INFO  [info] loading settings for project root from build.sbt ...
+2024.12.09 12:13:00 INFO  [info] set current project to battery (in build file:/Users/zs_olef.x/Work/Major/Programing%20Language/Assignments/final-assignment-battery/)
+2024.12.09 12:13:00 INFO  [success] Generated .bloop/root.json
+2024.12.09 12:13:00 INFO  [success] Generated .bloop/root-test.json
+2024.12.09 12:13:00 INFO  [success] Total time: 0 s, completed 2024. 12. 9. 오후 12:13:00
+2024.12.09 12:13:00 INFO  time: ran 'sbt bloopInstall' in 6.6s
+2024.12.09 12:13:00 INFO  Attempting to connect to the build server...
+2024.12.09 12:13:00 INFO  Found a Bloop server running
+2024.12.09 12:13:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.09 12:13:00 INFO  Attempting to connect to the build server...
+2024.12.09 12:13:00 INFO  Found a Bloop server running
+2024.12.09 12:13:00 INFO  Attempting to connect to the build server...
+2024.12.09 12:13:00 INFO  Found a Bloop server running
+2024.12.09 12:13:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.09 12:13:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.09 12:13:00 INFO  time: Connected to build server in 0.25s
+2024.12.09 12:13:00 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.09 12:13:00 INFO  running doctor check
+2024.12.09 12:13:00 INFO  java targets: final-assignment-battery-build-build, root-test, root, final-assignment-battery-build
+2024.12.09 12:13:02 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 12:13:02 INFO  compiling root (4 scala sources)
+2024.12.09 12:13:02 INFO  time: compiled root in 0.45s
+2024.12.09 12:13:02 INFO  compiling root (4 scala sources)
+2024.12.09 12:13:02 INFO  time: compiled root in 0.49s
+2024.12.09 12:13:02 INFO  compiling root (4 scala sources)
+2024.12.09 12:13:04 INFO  time: compiled root in 0.38s
+2024.12.09 12:13:05 INFO  time: indexed workspace in 4.22s
+2024.12.09 12:13:04 INFO  compiling root (4 scala sources)
+2024.12.09 12:13:05 INFO  time: compiled root in 0.32s
+2024.12.09 12:13:05 INFO  compiling root (4 scala sources)
+2024.12.09 12:13:05 INFO  time: compiled root in 0.36s
+12월 09, 2024 12:13:07 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.12.09 12:17:14 INFO  compiling root (4 scala sources)
+2024.12.09 12:17:14 INFO  time: compiled root in 0.41s
+2024.12.09 12:18:17 INFO  compiling root (4 scala sources)
+2024.12.09 12:18:17 INFO  time: compiled root in 0.35s
+2024.12.09 12:19:40 INFO  compiling root (4 scala sources)
+2024.12.09 12:19:40 INFO  time: compiled root in 0.34s
+2024.12.09 12:19:46 INFO  compiling root (4 scala sources)
+2024.12.09 12:19:46 INFO  time: compiled root in 0.31s
+2024.12.09 12:19:47 INFO  compiling root (4 scala sources)
+2024.12.09 12:19:47 INFO  time: compiled root in 0.47s
+2024.12.09 12:19:47 INFO  compiling root (4 scala sources)
+2024.12.09 12:19:47 INFO  time: compiled root in 0.32s
+2024.12.09 12:20:01 INFO  compiling root (4 scala sources)
+2024.12.09 12:20:01 INFO  time: compiled root in 0.31s
+2024.12.09 12:28:16 INFO  compiling root (4 scala sources)
+2024.12.09 12:28:16 INFO  time: compiled root in 0.33s
+2024.12.09 12:28:21 INFO  compiling root (4 scala sources)
+2024.12.09 12:28:21 INFO  time: compiled root in 0.31s
+2024.12.09 12:28:21 INFO  compiling root (4 scala sources)
+2024.12.09 12:28:21 INFO  time: compiled root in 0.32s
+2024.12.09 12:28:21 INFO  compiling root (4 scala sources)
+2024.12.09 12:28:22 INFO  time: compiled root in 0.37s
+2024.12.09 12:28:54 INFO  compiling root (4 scala sources)
+2024.12.09 12:28:54 INFO  time: compiled root in 0.33s
+2024.12.09 12:28:55 INFO  compiling root (4 scala sources)
+2024.12.09 12:28:55 INFO  time: compiled root in 0.29s
+2024.12.09 12:29:04 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:04 INFO  time: compiled root in 0.36s
+2024.12.09 12:29:10 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:10 INFO  time: compiled root in 0.13s
+2024.12.09 12:29:22 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:22 INFO  time: compiled root in 0.32s
+2024.12.09 12:29:23 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:23 INFO  time: compiled root in 70ms
+2024.12.09 12:29:26 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:26 INFO  time: compiled root in 79ms
+2024.12.09 12:29:34 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:34 INFO  time: compiled root in 85ms
+2024.12.09 12:29:37 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:37 INFO  time: compiled root in 84ms
+2024.12.09 12:29:40 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:40 INFO  time: compiled root in 0.33s
+2024.12.09 12:29:49 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:49 INFO  time: compiled root in 0.3s
+2024.12.09 12:29:52 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:52 INFO  time: compiled root in 0.31s
+2024.12.09 12:29:56 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:56 INFO  time: compiled root in 0.34s
+2024.12.09 12:29:58 INFO  compiling root (4 scala sources)
+2024.12.09 12:29:58 INFO  time: compiled root in 80ms
+2024.12.09 12:30:03 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:03 INFO  time: compiled root in 77ms
+2024.12.09 12:30:04 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:04 INFO  time: compiled root in 0.3s
+2024.12.09 12:30:08 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:08 INFO  time: compiled root in 0.33s
+2024.12.09 12:30:09 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:09 INFO  time: compiled root in 74ms
+2024.12.09 12:30:13 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:13 INFO  time: compiled root in 0.33s
+2024.12.09 12:30:15 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:15 INFO  time: compiled root in 75ms
+2024.12.09 12:30:18 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:18 INFO  time: compiled root in 0.3s
+2024.12.09 12:30:21 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:21 INFO  time: compiled root in 0.29s
+2024.12.09 12:30:25 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:25 INFO  time: compiled root in 0.34s
+2024.12.09 12:30:31 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:31 INFO  time: compiled root in 0.31s
+2024.12.09 12:30:35 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:35 INFO  time: compiled root in 0.33s
+2024.12.09 12:30:41 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:41 INFO  time: compiled root in 80ms
+2024.12.09 12:30:44 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:44 INFO  time: compiled root in 0.3s
+2024.12.09 12:30:44 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:45 INFO  time: compiled root in 0.28s
+2024.12.09 12:30:45 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:45 INFO  time: compiled root in 0.29s
+2024.12.09 12:30:45 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:45 INFO  time: compiled root in 0.36s
+2024.12.09 12:30:45 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:45 INFO  time: compiled root in 0.3s
+2024.12.09 12:30:50 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:50 INFO  time: compiled root in 0.3s
+2024.12.09 12:30:50 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:51 INFO  time: compiled root in 0.3s
+2024.12.09 12:30:51 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:51 INFO  time: compiled root in 0.31s
+2024.12.09 12:30:51 INFO  compiling root (4 scala sources)
+2024.12.09 12:30:51 INFO  time: compiled root in 0.32s
+2024.12.09 12:36:52 WARN  Could not find 'TypeEnv' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.12.09 12:43:13 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:13 INFO  time: compiled root in 0.31s
+2024.12.09 12:43:15 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:15 INFO  time: compiled root in 0.3s
+2024.12.09 12:43:18 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:18 INFO  time: compiled root in 0.32s
+2024.12.09 12:43:19 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:19 INFO  time: compiled root in 91ms
+2024.12.09 12:43:27 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:27 INFO  time: compiled root in 84ms
+2024.12.09 12:43:31 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:31 INFO  time: compiled root in 0.3s
+2024.12.09 12:43:33 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:33 INFO  time: compiled root in 0.31s
+2024.12.09 12:43:33 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:33 INFO  time: compiled root in 0.31s
+2024.12.09 12:43:33 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:33 INFO  time: compiled root in 0.29s
+2024.12.09 12:43:41 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:41 INFO  time: compiled root in 0.31s
+2024.12.09 12:43:46 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:46 INFO  time: compiled root in 0.31s
+2024.12.09 12:43:54 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:54 INFO  time: compiled root in 0.32s
+2024.12.09 12:43:56 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:56 INFO  time: compiled root in 0.3s
+2024.12.09 12:43:56 INFO  compiling root (4 scala sources)
+2024.12.09 12:43:56 INFO  time: compiled root in 0.33s
+2024.12.09 12:48:13 INFO  compiling root (4 scala sources)
+2024.12.09 12:48:13 INFO  time: compiled root in 0.38s
+2024.12.09 12:48:28 INFO  compiling root (4 scala sources)
+2024.12.09 12:48:28 INFO  time: compiled root in 0.34s
+2024.12.09 12:48:38 INFO  compiling root (4 scala sources)
+2024.12.09 12:48:38 INFO  time: compiled root in 0.31s
+2024.12.09 12:54:38 INFO  compiling root (4 scala sources)
+2024.12.09 12:54:38 INFO  time: compiled root in 0.36s
+2024.12.09 12:54:41 INFO  compiling root (4 scala sources)
+2024.12.09 12:54:41 INFO  time: compiled root in 0.31s
+2024.12.09 12:55:06 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:06 INFO  time: compiled root in 78ms
+2024.12.09 12:55:06 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:06 INFO  time: compiled root in 70ms
+2024.12.09 12:55:06 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:06 INFO  time: compiled root in 71ms
+2024.12.09 12:55:20 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:20 INFO  time: compiled root in 76ms
+2024.12.09 12:55:25 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:25 INFO  time: compiled root in 78ms
+2024.12.09 12:55:29 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:29 INFO  time: compiled root in 67ms
+2024.12.09 12:55:31 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:31 INFO  time: compiled root in 0.3s
+2024.12.09 12:55:37 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:37 INFO  time: compiled root in 77ms
+2024.12.09 12:55:41 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:41 INFO  time: compiled root in 0.31s
+2024.12.09 12:55:41 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:41 INFO  time: compiled root in 0.3s
+2024.12.09 12:55:41 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:41 INFO  time: compiled root in 0.29s
+2024.12.09 12:55:41 INFO  compiling root (4 scala sources)
+2024.12.09 12:55:42 INFO  time: compiled root in 0.31s
+2024.12.09 12:56:39 INFO  compiling root (4 scala sources)
+2024.12.09 12:56:39 INFO  time: compiled root in 0.31s
+2024.12.09 12:56:41 INFO  compiling root (4 scala sources)
+2024.12.09 12:56:41 INFO  time: compiled root in 0.3s
+2024.12.09 12:56:43 INFO  compiling root (4 scala sources)
+2024.12.09 12:56:43 INFO  time: compiled root in 77ms
+2024.12.09 12:56:49 INFO  compiling root (4 scala sources)
+2024.12.09 12:56:49 INFO  time: compiled root in 85ms
+2024.12.09 12:56:50 INFO  compiling root (4 scala sources)
+2024.12.09 12:56:50 INFO  time: compiled root in 0.31s
+2024.12.09 12:56:50 INFO  compiling root (4 scala sources)
+2024.12.09 12:56:50 INFO  time: compiled root in 0.33s
+2024.12.09 12:56:50 INFO  compiling root (4 scala sources)
+2024.12.09 12:56:50 INFO  time: compiled root in 0.29s
+2024.12.09 12:57:53 INFO  compiling root (4 scala sources)
+2024.12.09 12:57:53 INFO  time: compiled root in 78ms
+2024.12.09 12:57:57 INFO  compiling root (4 scala sources)
+2024.12.09 12:57:57 INFO  time: compiled root in 80ms
+2024.12.09 12:57:57 INFO  compiling root (4 scala sources)
+2024.12.09 12:57:57 INFO  time: compiled root in 67ms
+2024.12.09 12:57:57 INFO  compiling root (4 scala sources)
+2024.12.09 12:57:57 INFO  time: compiled root in 71ms
+2024.12.09 12:57:58 INFO  compiling root (4 scala sources)
+2024.12.09 12:57:58 INFO  time: compiled root in 0.14s
+2024.12.09 12:58:05 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:05 INFO  time: compiled root in 77ms
+2024.12.09 12:58:06 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:06 INFO  time: compiled root in 95ms
+2024.12.09 12:58:11 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:11 INFO  time: compiled root in 0.11s
+2024.12.09 12:58:11 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:11 INFO  time: compiled root in 0.12s
+2024.12.09 12:58:11 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:11 INFO  time: compiled root in 0.14s
+2024.12.09 12:58:11 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:11 WARN  Could not find 'TypeEnv' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.12.09 12:58:11 ERROR searching for `.` failed
+java.lang.RuntimeException: invalid symbol format
+.
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:211)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.12.09 12:58:11 ERROR searching for `#` failed
+java.lang.RuntimeException: invalid symbol format
+#
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:214)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.12.09 12:58:11 ERROR searching for `().` failed
+java.lang.RuntimeException: invalid symbol format
+().
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:209)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.12.09 12:58:11 WARN  Could not find 'ty' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.12.09 12:58:11 INFO  time: compiled root in 0.15s
+2024.12.09 12:58:25 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:25 INFO  time: compiled root in 0.11s
+2024.12.09 12:58:27 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:27 INFO  time: compiled root in 0.12s
+2024.12.09 12:58:29 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:29 INFO  time: compiled root in 70ms
+2024.12.09 12:58:33 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:33 INFO  time: compiled root in 0.31s
+2024.12.09 12:58:35 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:35 INFO  time: compiled root in 0.3s
+2024.12.09 12:58:45 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:45 INFO  time: compiled root in 0.32s
+2024.12.09 12:58:53 INFO  compiling root (4 scala sources)
+2024.12.09 12:58:53 INFO  time: compiled root in 0.37s
+2024.12.09 12:59:23 INFO  compiling root (4 scala sources)
+2024.12.09 12:59:23 INFO  time: compiled root in 0.35s
+2024.12.09 12:59:45 INFO  compiling root (4 scala sources)
+2024.12.09 12:59:45 INFO  time: compiled root in 0.37s
+2024.12.09 13:01:32 INFO  compiling root (4 scala sources)
+2024.12.09 13:01:32 INFO  time: compiled root in 0.36s
+2024.12.09 13:01:54 INFO  compiling root (4 scala sources)
+2024.12.09 13:01:54 INFO  time: compiled root in 0.32s
+2024.12.09 13:01:58 INFO  compiling root (4 scala sources)
+2024.12.09 13:01:58 INFO  time: compiled root in 0.35s
+2024.12.09 13:02:01 INFO  compiling root (4 scala sources)
+2024.12.09 13:02:01 INFO  time: compiled root in 0.35s
+2024.12.09 13:02:40 INFO  compiling root (4 scala sources)
+2024.12.09 13:02:40 INFO  time: compiled root in 0.34s
+2024.12.09 13:05:14 INFO  compiling root (4 scala sources)
+2024.12.09 13:05:14 INFO  time: compiled root in 0.35s
+2024.12.09 13:05:45 INFO  compiling root (4 scala sources)
+2024.12.09 13:05:45 INFO  time: compiled root in 82ms
+2024.12.09 13:05:46 INFO  compiling root (4 scala sources)
+2024.12.09 13:05:46 INFO  time: compiled root in 0.33s
+2024.12.09 13:05:49 INFO  compiling root (4 scala sources)
+2024.12.09 13:05:49 INFO  time: compiled root in 0.31s
+2024.12.09 13:05:54 INFO  compiling root (4 scala sources)
+2024.12.09 13:05:54 INFO  time: compiled root in 80ms
+2024.12.09 13:05:55 INFO  compiling root (4 scala sources)
+2024.12.09 13:05:55 INFO  time: compiled root in 0.28s
+2024.12.09 13:06:00 INFO  compiling root (4 scala sources)
+2024.12.09 13:06:00 INFO  time: compiled root in 0.32s
+2024.12.09 13:06:01 INFO  compiling root (4 scala sources)
+2024.12.09 13:06:01 INFO  time: compiled root in 74ms
+2024.12.09 13:06:03 INFO  compiling root (4 scala sources)
+2024.12.09 13:06:03 INFO  time: compiled root in 0.3s
+2024.12.09 13:06:04 INFO  compiling root (4 scala sources)
+2024.12.09 13:06:04 INFO  time: compiled root in 0.37s
+2024.12.09 13:06:04 INFO  compiling root (4 scala sources)
+2024.12.09 13:06:04 INFO  time: compiled root in 0.31s
+2024.12.09 13:10:19 INFO  compiling root (4 scala sources)
+2024.12.09 13:10:19 INFO  time: compiled root in 0.3s
+2024.12.09 13:10:19 INFO  compiling root (4 scala sources)
+2024.12.09 13:10:19 INFO  time: compiled root in 0.34s
+2024.12.09 13:10:19 INFO  compiling root (4 scala sources)
+2024.12.09 13:10:19 INFO  time: compiled root in 0.33s
+2024.12.09 13:10:25 INFO  compiling root (4 scala sources)
+2024.12.09 13:10:25 INFO  time: compiled root in 0.32s
+2024.12.09 13:10:25 INFO  compiling root (4 scala sources)
+2024.12.09 13:10:25 INFO  time: compiled root in 0.31s
+2024.12.09 13:10:49 INFO  compiling root (4 scala sources)
+2024.12.09 13:10:49 INFO  time: compiled root in 0.3s
+2024.12.09 18:29:45 INFO  Started: Metals version 1.4.1 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery' for client Visual Studio Code 1.95.3.
+2024.12.09 18:29:49 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 18:29:49 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 18:29:52 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 18:29:52 INFO  Attempting to connect to the build server...
+2024.12.09 18:29:52 INFO  No running Bloop server found, starting one.
+2024.12.09 18:29:53 INFO  Starting compilation server
+2024.12.09 18:29:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.09 18:29:53 INFO  Attempting to connect to the build server...
+2024.12.09 18:29:53 INFO  Found a Bloop server running
+2024.12.09 18:29:53 INFO  Attempting to connect to the build server...
+2024.12.09 18:29:53 INFO  Found a Bloop server running
+2024.12.09 18:29:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.09 18:29:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.09 18:29:53 INFO  time: Connected to build server in 1.74s
+2024.12.09 18:29:53 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.09 18:29:53 INFO  time: Imported build in 0.13s
+2024.12.09 18:29:53 INFO  running doctor check
+2024.12.09 18:29:53 INFO  java targets: final-assignment-battery-build-build, root-test, root, final-assignment-battery-build
+2024.12.09 18:29:59 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 18:29:59 INFO  time: indexed workspace in 5.78s
+2024.12.09 18:30:00 INFO  compiling root (4 scala sources)
+2024.12.09 18:30:02 INFO  time: compiled root in 2.73s
+2024.12.09 18:30:02 INFO  compiling root (4 scala sources)
+2024.12.09 18:30:04 INFO  time: compiled root in 1.26s
+2024.12.09 18:35:50 INFO  compiling root (4 scala sources)
+2024.12.09 18:35:50 INFO  time: compiled root in 0.46s
+2024.12.09 18:35:51 INFO  compiling root (4 scala sources)
+2024.12.09 18:35:51 INFO  time: compiled root in 0.44s
+2024.12.09 18:35:53 INFO  compiling root (4 scala sources)
+2024.12.09 18:35:53 INFO  time: compiled root in 0.39s
+2024.12.09 18:35:55 INFO  compiling root (4 scala sources)
+2024.12.09 18:35:55 INFO  time: compiled root in 0.48s
+2024.12.09 18:35:58 INFO  compiling root (4 scala sources)
+2024.12.09 18:35:58 INFO  time: compiled root in 0.29s
+12월 09, 2024 6:35:59 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 287
+2024.12.09 18:36:00 INFO  compiling root (4 scala sources)
+2024.12.09 18:36:00 INFO  time: compiled root in 0.34s
+2024.12.09 18:36:01 INFO  compiling root (4 scala sources)
+2024.12.09 18:36:01 INFO  time: compiled root in 0.38s
+2024.12.09 18:36:03 INFO  compiling root (4 scala sources)
+2024.12.09 18:36:03 INFO  time: compiled root in 0.2s
+2024.12.09 18:36:04 INFO  compiling root (4 scala sources)
+2024.12.09 18:36:04 INFO  time: compiled root in 0.3s
+2024.12.09 18:36:04 INFO  compiling root (4 scala sources)
+2024.12.09 18:36:05 WARN  Could not find 'Type' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.12.09 18:36:04 INFO  time: compiled root in 0.4s
+2024.12.09 18:36:04 INFO  compiling root (4 scala sources)
+2024.12.09 18:36:06 INFO  time: compiled root in 0.37s
+2024.12.09 18:37:12 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:12 INFO  time: compiled root in 0.16s
+2024.12.09 18:37:17 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:17 INFO  time: compiled root in 0.19s
+2024.12.09 18:37:18 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:18 INFO  time: compiled root in 0.12s
+2024.12.09 18:37:37 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:37 INFO  time: compiled root in 0.12s
+2024.12.09 18:37:39 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:39 INFO  time: compiled root in 0.1s
+2024.12.09 18:37:40 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:40 INFO  time: compiled root in 0.11s
+2024.12.09 18:37:40 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:41 INFO  time: compiled root in 0.1s
+2024.12.09 18:37:41 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:42 INFO  time: compiled root in 0.33s
+2024.12.09 18:37:42 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:43 INFO  time: compiled root in 0.29s
+2024.12.09 18:37:45 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:45 INFO  time: compiled root in 0.12s
+2024.12.09 18:37:47 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:47 INFO  time: compiled root in 0.29s
+2024.12.09 18:37:47 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:47 INFO  time: compiled root in 0.33s
+2024.12.09 18:37:47 INFO  compiling root (4 scala sources)
+2024.12.09 18:37:47 INFO  time: compiled root in 0.31s
+2024.12.09 18:39:11 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:11 INFO  time: compiled root in 0.12s
+2024.12.09 18:39:12 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:12 INFO  time: compiled root in 0.37s
+2024.12.09 18:39:14 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:14 INFO  time: compiled root in 0.35s
+2024.12.09 18:39:16 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:16 INFO  time: compiled root in 0.31s
+2024.12.09 18:39:18 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:18 INFO  time: compiled root in 0.32s
+2024.12.09 18:39:18 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:18 INFO  time: compiled root in 0.3s
+2024.12.09 18:39:18 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:18 INFO  time: compiled root in 0.31s
+2024.12.09 18:39:18 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:19 INFO  time: compiled root in 0.32s
+2024.12.09 18:39:19 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:19 INFO  time: compiled root in 0.32s
+2024.12.09 18:39:19 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:19 INFO  time: compiled root in 0.28s
+2024.12.09 18:39:19 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:21 INFO  time: compiled root in 0.26s
+2024.12.09 18:39:26 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:26 INFO  time: compiled root in 0.32s
+2024.12.09 18:39:26 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:27 WARN  Could not find 'Type' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.12.09 18:39:26 INFO  time: compiled root in 0.33s
+2024.12.09 18:39:26 INFO  compiling root (4 scala sources)
+2024.12.09 18:39:26 INFO  time: compiled root in 0.3s
+2024.12.09 18:41:10 INFO  compiling root (4 scala sources)
+2024.12.09 18:41:10 INFO  time: compiled root in 0.32s
+2024.12.09 18:41:10 INFO  compiling root (4 scala sources)
+2024.12.09 18:41:10 INFO  time: compiled root in 0.3s
+2024.12.09 18:41:29 INFO  compiling root (4 scala sources)
+2024.12.09 18:41:29 INFO  time: compiled root in 0.28s
+2024.12.09 18:41:29 INFO  compiling root (4 scala sources)
+2024.12.09 18:41:29 INFO  time: compiled root in 0.29s
+2024.12.09 18:41:29 INFO  compiling root (4 scala sources)
+2024.12.09 18:41:29 INFO  time: compiled root in 0.29s
+2024.12.09 18:41:40 INFO  compiling root (4 scala sources)
+2024.12.09 18:41:40 INFO  time: compiled root in 0.27s
+2024.12.09 18:41:40 INFO  compiling root (4 scala sources)
+2024.12.09 18:41:40 INFO  time: compiled root in 0.25s
+2024.12.09 18:41:40 INFO  compiling root (4 scala sources)
+2024.12.09 18:41:40 INFO  time: compiled root in 0.24s
+2024.12.09 18:43:44 INFO  compiling root (4 scala sources)
+2024.12.09 18:43:44 INFO  time: compiled root in 0.1s
+2024.12.09 18:43:45 INFO  compiling root (4 scala sources)
+2024.12.09 18:43:45 INFO  time: compiled root in 0.29s
+2024.12.09 18:43:46 INFO  compiling root (4 scala sources)
+2024.12.09 18:43:46 INFO  time: compiled root in 0.29s
+2024.12.09 18:43:46 INFO  compiling root (4 scala sources)
+2024.12.09 18:43:46 INFO  time: compiled root in 0.31s
+2024.12.09 18:44:00 INFO  compiling root (4 scala sources)
+2024.12.09 18:44:00 INFO  time: compiled root in 0.31s
+2024.12.09 18:44:00 INFO  compiling root (4 scala sources)
+2024.12.09 18:44:00 INFO  time: compiled root in 0.26s
+2024.12.09 18:44:00 INFO  compiling root (4 scala sources)
+2024.12.09 18:44:00 INFO  time: compiled root in 0.25s
+2024.12.09 18:45:19 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:19 INFO  time: compiled root in 0.3s
+2024.12.09 18:45:19 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:19 INFO  time: compiled root in 0.29s
+2024.12.09 18:45:19 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:19 INFO  time: compiled root in 0.3s
+2024.12.09 18:45:19 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:21 INFO  time: compiled root in 0.29s
+2024.12.09 18:45:21 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:21 INFO  time: compiled root in 0.28s
+2024.12.09 18:45:21 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:21 INFO  time: compiled root in 0.34s
+2024.12.09 18:45:24 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:24 INFO  time: compiled root in 0.29s
+2024.12.09 18:45:24 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:24 INFO  time: compiled root in 0.34s
+2024.12.09 18:45:44 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:44 INFO  time: compiled root in 0.26s
+2024.12.09 18:45:44 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:44 INFO  time: compiled root in 0.28s
+2024.12.09 18:45:44 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:44 INFO  time: compiled root in 0.28s
+2024.12.09 18:45:49 INFO  compiling root (4 scala sources)
+2024.12.09 18:45:49 INFO  time: compiled root in 0.27s
+2024.12.09 18:45:51 INFO  Shutting down server
+2024.12.09 18:45:51 INFO  shutting down Metals
+2024.12.09 18:45:51 INFO  Shut down connection with build server.
+2024.12.09 18:45:51 INFO  Shut down connection with build server.
+2024.12.09 18:45:51 INFO  Shut down connection with build server.
+2024.12.09 18:45:51 INFO  Exiting server
+2024.12.09 18:56:09 INFO  Started: Metals version 1.4.1 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery' for client Visual Studio Code 1.95.3.
+2024.12.09 18:56:09 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 18:56:10 INFO  Attempting to connect to the build server...
+2024.12.09 18:56:10 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Template.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.09 18:56:10 INFO  Found a Bloop server running
+2024.12.09 18:56:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.09 18:56:10 INFO  Attempting to connect to the build server...
+2024.12.09 18:56:10 INFO  Found a Bloop server running
+2024.12.09 18:56:10 INFO  Attempting to connect to the build server...
+2024.12.09 18:56:10 INFO  Found a Bloop server running
+2024.12.09 18:56:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.09 18:56:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.09 18:56:10 INFO  time: Connected to build server in 0.28s
+2024.12.09 18:56:10 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.09 18:56:10 INFO  running doctor check
+2024.12.09 18:56:10 INFO  java targets: final-assignment-battery-build-build, root-test, root, final-assignment-battery-build
+2024.12.09 18:56:12 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.09 18:56:12 INFO  time: indexed workspace in 1.93s
+2024.12.09 18:56:12 INFO  compiling root (4 scala sources)
+2024.12.09 18:56:12 INFO  time: compiled root in 0.38s
+2024.12.09 18:56:12 INFO  compiling root (4 scala sources)
+2024.12.09 18:56:12 INFO  time: compiled root in 0.39s
+2024.12.09 18:56:12 INFO  compiling root (4 scala sources)
+2024.12.09 18:56:13 INFO  time: compiled root in 0.35s
+2024.12.09 18:56:13 INFO  compiling root (4 scala sources)
+2024.12.09 18:56:13 INFO  time: compiled root in 0.36s
+2024.12.09 18:56:14 WARN  Could not find 'Map' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.12.09 18:56:24 INFO  compiling root (4 scala sources)
+2024.12.09 18:56:24 INFO  time: compiled root in 0.29s
+2024.12.09 18:56:24 INFO  compiling root (4 scala sources)
+2024.12.09 18:56:24 INFO  time: compiled root in 0.31s
+2024.12.09 18:56:24 INFO  compiling root (4 scala sources)
+2024.12.09 18:56:24 INFO  time: compiled root in 0.3s
+2024.12.09 18:56:26 INFO  Shutting down server
+2024.12.09 18:56:26 INFO  shutting down Metals
+2024.12.09 18:56:26 INFO  Shut down connection with build server.
+2024.12.09 18:56:26 INFO  Shut down connection with build server.
+2024.12.09 18:56:26 INFO  Shut down connection with build server.
+2024.12.09 18:56:26 INFO  Exiting server
+2024.12.10 19:36:26 INFO  Started: Metals version 1.4.1 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery' for client Visual Studio Code 1.95.3.
+2024.12.10 19:36:26 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.10 19:36:26 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.10 19:36:26 INFO  Attempting to connect to the build server...
+2024.12.10 19:36:26 INFO  Found a Bloop server running
+2024.12.10 19:36:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.10 19:36:26 INFO  Attempting to connect to the build server...
+2024.12.10 19:36:26 INFO  Found a Bloop server running
+2024.12.10 19:36:26 INFO  Attempting to connect to the build server...
+2024.12.10 19:36:26 INFO  Found a Bloop server running
+2024.12.10 19:36:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.10 19:36:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.10 19:36:27 INFO  time: Connected to build server in 0.3s
+2024.12.10 19:36:27 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.10 19:36:28 INFO  running doctor check
+2024.12.10 19:36:28 INFO  java targets: final-assignment-battery-build-build, root-test, root, final-assignment-battery-build
+12월 10, 2024 7:36:28 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2024.12.10 19:36:29 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.10 19:36:29 INFO  time: indexed workspace in 1.95s
+2024.12.10 19:36:30 INFO  compiling root (4 scala sources)
+2024.12.10 19:36:30 INFO  time: compiled root in 0.36s
+2024.12.10 19:36:30 INFO  compiling root (4 scala sources)
+2024.12.10 19:36:30 INFO  time: compiled root in 0.34s
+2024.12.10 19:37:08 INFO  Shutting down server
+2024.12.10 19:37:08 INFO  shutting down Metals
+2024.12.10 19:37:08 INFO  Shut down connection with build server.
+2024.12.10 19:37:08 INFO  Shut down connection with build server.
+2024.12.10 19:37:08 INFO  Shut down connection with build server.
+2024.12.10 19:37:08 INFO  Exiting server
+2024.12.14 21:01:11 INFO  Started: Metals version 1.4.1 in folders '/Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery' for client Visual Studio Code 1.95.3.
+2024.12.14 21:01:11 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.14 21:01:11 INFO  no build target found for /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/src/main/scala/kuplrg/Implementation.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.14 21:01:11 INFO  Attempting to connect to the build server...
+2024.12.14 21:01:11 INFO  Found a Bloop server running
+2024.12.14 21:01:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.14 21:01:11 INFO  Attempting to connect to the build server...
+2024.12.14 21:01:11 INFO  Found a Bloop server running
+2024.12.14 21:01:11 INFO  Attempting to connect to the build server...
+2024.12.14 21:01:11 INFO  Found a Bloop server running
+2024.12.14 21:01:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.14 21:01:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zs_olef.x/Work/Major/Programing Language/Assignments/final-assignment-battery/project/.metals/bsp.trace.json or /Users/zs_olef.x/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.12.14 21:01:11 INFO  time: Connected to build server in 0.3s
+2024.12.14 21:01:11 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.14 21:01:13 INFO  running doctor check
+2024.12.14 21:01:13 INFO  java targets: final-assignment-battery-build-build, root-test, root, final-assignment-battery-build
+2024.12.14 21:01:14 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.14 21:01:14 INFO  time: indexed workspace in 2.07s
+2024.12.14 21:01:15 INFO  compiling root (4 scala sources)
+2024.12.14 21:01:15 INFO  time: compiled root in 0.35s
+2024.12.14 21:01:15 INFO  compiling root (4 scala sources)
+2024.12.14 21:01:15 INFO  time: compiled root in 0.39s
+2024.12.15 15:35:02 INFO  Shutting down server
+2024.12.15 15:35:02 INFO  shutting down Metals
+2024.12.15 15:35:02 INFO  Shut down connection with build server.
+2024.12.15 15:35:02 INFO  Shut down connection with build server.
+2024.12.15 15:35:02 INFO  Shut down connection with build server.
+2024.12.15 15:35:02 INFO  Exiting server
